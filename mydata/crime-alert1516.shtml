@@ -1,0 +1,696 @@
+ï»¿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>
+		SUDPS Community Crime Alerts - 2015-2016
+	</title>
+
+	<meta name="description" content="The Stanford University Department of Public Safety - Community Crime Alerts - 2015-2016">
+	<meta name="keywords" content="index, stanford, Stanford, police, employment, police jobs, recruiting, police recruiting, Stanford police, stanford websites, stanford web, stanford home page, university, college">
+
+	<link rel="stylesheet" type="text/css" href="scripts/global5.css" />
+	<link rel="stylesheet" type="text/css" href="scripts/styles5.css" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35141420-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<!-- begin include: /scripts/includes/header.inc -->
+
+
+	<script type="text/javascript" src="scripts/main-nav-images.js"></script>
+
+<!-- ULTIMATE DROP DOWN MENU Version 4.44 by Brothercake -->
+		<!-- https://www.udm4.com/ -->
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-custom-blue.js"></script>
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-control.js"></script>
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-style.js"></script>
+
+
+		<script type="text/javascript" language="JavaScript1.1">
+<!--
+
+//Pixelating Image slideshow
+//Copyright Dynamic Drive 2001
+//Visit https://www.dynamicdrive.com for this script
+
+//specify interval between slide (in mili seconds)
+var slidespeed=12000
+//specify images
+var slideimages=new Array("https://www.stanford.edu/group/SUDPS/images/quote-box/core-pre.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/we-pledge.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/core-post.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/SUDPS-enviro.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/no-typical-day.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/best-ucanb.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/extra-mile.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/on-foot.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/sense-trouble.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/vehicle-safety.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/driving.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/beware-drivers.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/ATMs.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/id-theft.gif")
+//specify corresponding links
+var slidelinks=new Array("https://www.stanford.edu/group/SUDPS/index.shtml")
+
+var imageholder=new Array()
+var ie55=window.createPopup
+for (i=0;i<slideimages.length;i++){
+imageholder[i]=new Image()
+imageholder[i].src=slideimages[i]
+}
+
+function gotoshow(){
+window.location=slidelinks[whichlink]
+}
+
+//-->
+</script>
+
+</head>
+<body>
+
+<div style="text-align: center; margin: 0 auto;"><a name="pagetop"></a><img src="https://www.stanford.edu/group/SUDPS/images/top-border.jpg" width="770" height="5" alt="" border="0" /></div>
+	<div id="wrapper">
+		<div id="mainWrapper">
+			<div id="container">
+
+<!-- end include: /scripts/includes/header.inc -->
+
+				<div id="main_pageheader">
+					<div id="header-text">Community Crime Alerts and Emergency Notifications</div>
+				</div>
+
+				<div id="nav-spacer"></div>
+				<div id="main_nav-q">
+
+<!-- BEGIN INCLUDE: /scripts/includes/nav-imagemap.inc -->
+
+<img src="http://www.stanford.edu/group/SUDPS/images/y-menu4.jpg" width="760" height="46" usemap="#tabsMap" border="0" align="bottom" name="imagemap">
+
+<map name="tabsMap">
+   <area shape="rect" coords="0,5,63,48" href="http://www.stanford.edu/group/SUDPS/index.shtml" onMouseover="dropdownmenu(this, event, menu0, '149px');rollOver('imagemap','home')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="65,5,163,48" href="http://www.stanford.edu/group/SUDPS/safety-report.shtml" onMouseover="dropdownmenu(this, event, menu1, '149px');rollOver('imagemap','safety')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="165,5,246,48" href="http://www.stanford.edu/group/SUDPS/crime-alert.shtml" onMouseover="dropdownmenu(this, event, menu2, '149px');rollOver('imagemap','crime-alerts')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="248,5,329,48" href="http://www.stanford.edu/group/SUDPS/employment.shtml" onMouseover="dropdownmenu(this, event, menu3, '149px');rollOver('imagemap','employ')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="331,5,406,48" href="http://www.stanford.edu/group/SUDPS/outreach.shtml" onMouseover="dropdownmenu(this, event, menu4, '149px');rollOver('imagemap','outreach')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="408,5,468,48" href="http://www.stanford.edu/group/SUDPS/event-security.shtml" onMouseover="dropdownmenu(this, event, menu5, '149px');rollOver('imagemap','event')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="469,5,529,48" href="http://www.stanford.edu/group/SUDPS/livescan.shtml" onMouseover="dropdownmenu(this, event, menu6, '149px');rollOver('imagemap','livescan')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="532,5,610,48" href="http://www.stanford.edu/group/SUDPS/forms.shtml" onMouseover="dropdownmenu(this, event, menu7, '149px');rollOver('imagemap','forms')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="613,5,667,48" href="http://www.stanford.edu/group/SUDPS/links.shtml" onMouseover="dropdownmenu(this, event, menu8, '149px');rollOver('imagemap','links')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="670,5,742,48" href="http://www.stanford.edu/group/SUDPS/contact.shtml" onMouseover="dropdownmenu(this, event, menu9, '149px');rollOver('imagemap','contact')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+</map>
+
+<!-- END INCLUDE: /scripts/includes/nav-imagemap.inc -->
+
+					</div>
+				<div id="nav-spacer"></div>
+
+				<div id="content-area">
+					<div id="left-col">
+						<div id="left-nav"><!-- begin include: /scripts/includes/crime-alert-nav.inc -->
+
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-dom.js"></script>
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-mod-keyboard.js"></script>
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-x-sliding.js"></script>
+
+<ul id="udm" class="udm">
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1516.shtml" title="2015-2016">2015-2016</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#summer16" title="Summer 2016">Summer 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#spring16" title="Spring 2016">Spring 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#winter16" title="Winter 2016">Winter 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#fall15" title="Fall 2015">Fall 2015</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml" title="2014-2015">2014-2015</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#summer15" title="Summer 2015">Summer 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#spring15" title="Spring 2015">Spring 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#winter15" title="Winter 2015">Winter 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#fall14" title="Fall 2014">Fall 2014</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml" title="2013-2014">2013-2014</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#summer14" title="Summer 2014">Summer 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#spring14" title="Spring 2014">Spring 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#winter14" title="Winter 2014">Winter 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#fall13" title="Fall 2013">Fall 2013</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml" title="2012-2013">2012-2013</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#summer13" title="Summer 2013">Summer 2013</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#spring13" title="Spring 2013">Spring 2013</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#winter13" title="Winter 2013">Winter 2013</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#fall12" title="Fall 2012">Fall 2012</a></li>
+ 		</ul>
+
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml" title="2011-2012">2011-2012</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml" title="Summer 2012">Summer 2012</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#spring12" title="Spring 2012">Spring 2012</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#winter12" title="Winter 2012">Winter 2012</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#fall11" title="Fall 2011">Fall 2011</a></li>
+ 		</ul>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml" title="2010-2011">2010-2011</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml" title="Summer 2011">Summer 2011</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#spring11" title="Spring 2011">Spring 2011</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#winter11" title="Winter 2011">Winter 2011</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#fall10" title="Fall 2010">Fall 2010</a></li>
+ 		</ul>
+ 	</li>
+<!--	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml" title="2009-2010">2009-2010</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#summer10" title="Summer 2010">Summer 2010</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#spring10" title="Spring 2010">Spring 2010</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#winter10" title="Winter 2009">Winter 2010</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#fall09" title="Fall 2009">Fall 2009</a></li>
+ 		</ul>
+ 	</li>
+-->
+
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert.shtml#safety" title="Public Safety Reminders">Public Safety Reminders</a></li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/safety-report/toc.shtml" title="Crime & Safety Tips">Crime & Safety Tips</a>
+  	<ul>
+			<li><a href="safety-report/alcohol.shtml">Alcohol, Drug, and Driving Laws</a></li>
+			<li><a href="safety-report/bicycle.shtml">Bicycle Safety and Security **</a></li>
+			<li><a href="safety-report/bomb-threat.shtml">Bomb Threat Safety Instructions</a></li>
+			<li><a href="safety-report/dv.shtml">Domestic Violence</a></li>
+			<li><a href="safety-report/emergency.shtml">Emergency Preparedness</a></li>
+			<li><a href="safety-report/justice-system.shtml">How to Navigate the Criminal Justice System</a></li>
+			<li><a href="safety-report/mail-bomb.shtml">Letter and Package Bomb Indicators</a></li>
+			<li><a href="safety-report/pedestrian.shtml">Pedestrian Safety Zone</a></li>
+			<li><a href="safety-report/personal-safety.shtml">Personal Safety and Protection</a></li>
+			<li><a href="safety-report/property.shtml">Property Protection **</a></li>
+			<li><a href="safety-report/reporting.shtml">Reporting Crime and Suspicious Activity</a></li>
+			<li><a href="safety-report/sexual-assault.shtml">Sexual Assault</a></li>
+			<li><a href="safety-report/phone-bomb.shtml">Telephone Bomb Threat Report Form</a></a></li>
+ 		</ul>
+	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/reporting.shtml" title="Reporting Crime">Reporting Crime</a></li>
+</ul>
+
+<!-- end include: /scripts/includes/crime-alert-nav.inc -->
+						</div><!-- // left-nav -->
+
+						<div id="search-box">
+							<div id="nav-spacer"></div>
+								<!-- BEGIN INCLUDE: /scripts/includes/search.inc -->
+
+<div id="search-btn">
+<form method="get" action="http://www.stanford.edu/search">
+<input type="text" name="q" size="10" maxlength="100" value="" />&nbsp;
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cx" value="003265255082301896483:sq5n7qoyfh8" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+
+<input type="hidden" name="as_dt" value="i" />
+<input type="hidden" name="as_sitesearch" value="stanford.edu/group/SUDPS" />
+
+</form></div>
+
+<!-- END INCLUDE: /scripts/includes/search.inc -->
+							<div id="nav-spacer"></div>
+						</div><!-- // search-box -->
+
+						<!-- begin include: /scripts/includes/left-content.inc -->
+
+							<div id="left-content">
+								<p>
+
+									<!-- Quote Box -->
+      	<a href="javascript:gotoshow()"><img src="photo1.jpg" alt="SUDPS quotes" name="slide" border=0 style="filter:progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)"></a>
+
+<script language="JavaScript1.1">
+<!--
+var whichlink=0
+var whichimage=0
+var pixeldelay=(ie55)? document.images.slide.filters[0].duration*1000 : 0
+function slideit(){
+if (!document.images) return
+if (ie55) document.images.slide.filters[0].apply()
+document.images.slide.src=imageholder[whichimage].src
+if (ie55) document.images.slide.filters[0].play()
+whichlink=whichimage
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+setTimeout("slideit()",slidespeed+pixeldelay)
+}
+slideit()
+
+//-->
+</script>
+
+
+		</p>
+
+		<p><a href="http://studentaffairs.stanford.edu/sara" target="_blank"><img src="http://www.stanford.edu/group/SUDPS/images/SVABarches.jpg" border="0" /></a>
+			<a href="http://www.stanford.edu/group/SUDPS/employment.shtml"><img src="http://www.stanford.edu/group/SUDPS/images/now-hiring.jpg" border="0" /></a>
+
+
+	</p>
+						</div><!-- // left-content -->
+
+<!-- end include: /scripts/includes/left-content.inc -->
+
+					</div><!-- // left-col -->
+
+					<div id="main-col">
+
+
+
+												<!-- right-col content -->
+
+
+		<!-- center-col -->
+
+
+						<div id="center-col">
+
+<div id="bread-crumbs"><a href="index.shtml" class="bread-crumbs">Home</a> > <a href="crime-alert.shtml" class="bread-crumbs">Community Crime Alerts and Emergency Notifications</a> > <font color="#393a38">2015-2016</font></div>
+
+<p align="center"><img src="images/crime-alert.jpg" /></p>
+
+<p><i><b>Community Crime Alerts and Emergency Notifications</B> are reports of major criminal incidents or harmful environmental incidents on the campus that could potentially affect the larger Stanford community.  While such crimes are not indicative of life on campus, it is important to be aware of them when they do occur and to take the appropriate precautions.</i></p>
+
+<p><i>The following crime alerts and emergency notifications were put out by the Stanford University Department of Public Safety during the academic year of 2015-2016.  Crime Alerts are listed according to the most recent incident.</i></p>
+
+<p><hr>
+
+<p align="center"><b> <a href="#fall15">Fall 2015</a> | <a href="#winter16">Winter 2016</a> | <a href="#spring16">Spring 2016</a> | <a href="#summer16">Summer 2016</a></b> </p>
+
+
+<p><hr>
+
+<p>
+  <!--  // Timely Warning and website update Programming Instructions.
+
+// To insert a new timely warning or post a community notice on the website, copy the information immediately below, paste it below the "right arrow" and edit it accordingly using the following format:  replace the xxx with the Title, the yyy with the Content, and the zzz with the Date you posted the alert.  Everything else should remain the same.
+
+<h3><a name=""></a><u>xxxxxxxxxx</u></h3>
+
+<p>yyyyyyyyyyy</p>
+
+<p id="post-date">Posted zz/zz/zz</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+ -->
+<h3><a name=""></a><u>Attempted Burglary</u></h3>
+
+<p>On 4/9/16 a residential attempted burglary occurred in the 700 block of Mayfield Dr. around 7:45PM. The unknown suspect attempted to gain entry by prying the door frame and was unsuccessful. The suspect then attempted to gain entry by throwing a rock through the window. At this point an occupant of the home went towards the sound and noticed the broken window. Shortly thereafter a vehicle was heard leaving the area. No one was seen and there is no vehicle description at this time.</p>
+
+<p>The Stanford police encourage individuals to keep their doors and windows locked. Additionally, we ask the community to report suspicious and criminal activity to the police as soon as possible.</p>
+
+<p>Anyone with additional information should contact the Stanford Police at 650-329-2413.</p>
+
+<p>Additional information, will be posted on
+<a href="http://emergency.stanford.edu/"> http://emergency.stanford.edu/</a>  or <a href="https://police.stanford.edu/"> https://police.stanford.edu/</a> as it becomes available.</p>
+
+<p>This message is being sent to you in compliance with the Jeanne Clery Act. </p>
+
+<p id="post-date">Posted 04/09/2016</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+ <h2><a name=""></a><u>Tax Fraud and Identity Theft Notice</u></h2>
+<p>In light of several reported incidents of tax returns that were fraudulently filed in the names of Stanford community members, the Department of Public Safety and the Information Security Office would like to make you aware of an IRS campaign aimed at preventing this crime, which is on the rise throughout the country.  The campaign known as Taxes, Security, Together is a âa joint effort between the IRS, states, and the private-sector tax industry. The collaboration is designed to raise taxpayer awareness about taking simple steps on the Internet and their personal devices to protect the safety of their financial and tax data. The education campaign complements the expanded series of important new protections the IRS, states, and tax industry put in place for the 2016 filing season to address tax-related identity theft.â   The following link to the campaign also provides important information on the various tax frauds and scams, preventive measures, and several resources to help protect your identity and credit:
+<a href="https://www.irs.gov/Individuals/Taxes-Security-Together"> https://www.irs.gov/Individuals/Taxes-Security-Together </a></p>
+<p>Additionally, the Information Security Office provides specific guidance to the Stanford community on how to avoid, detect, and handle identity theft at:
+<a href="https://security.stanford.edu/identity-theft"> https://security.stanford.edu/identity-theft </a></p>
+<p>If you are a victim of a tax fraud, scam, or identity theft, please report it to the Department of Public Safety at (650) 329-2413 (24/7).</p>
+<p>Once a police report is filed, you can contact the Identity Theft Council, which provides victims with FREE support and credit recovery assistance, by dialing (888) 771-0767.  For information on the services offered by the Council that can help reduce the incidence of identity theft, please visit their website at: <a href="https://www.identitytheftcouncil.org"> https://https://www.identitytheftcouncil.org </a></p>
+<p>If you have any questions concerning this Advisory, please contact:</p>
+<p>Bill Larson<br>
+Public Information Officer<br>
+Department of Public Safety<br>
+<a href="mailto:william.larson@stanford.edu?subject=Tax Fraud Advisory"> william.larson@stanford.edu</a></p>
+
+<p id="post-date">Posted 04/04/2016</p>
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Community Alert- Recent Thefts</u></h3>
+
+<p>There have been numerous burglaries and thefts reported to the Stanford
+Department of Public Safety (SUDPS) over recent weeks. In most cases,
+laptop computers have been stolen. The incidents have occurred in
+offices, research facilities and student residences throughout campus.
+The suspect (or suspects) may be posing as university employees in order
+to avoid detection.</p>
+
+<p>To help prevent theft, SUDPS recommends individuals take the following
+measures:</p>
+
+<p>Be attentive to your surroundings. If there are persons unfamiliar to
+you in places where individuals without a legitimate business purpose
+should not be located, have a plan for monitoring the individual's
+movements. Be prepared to call 9-1-1 to report suspicious activity.</p>
+
+<p>Lock doors and windows, even if you will only be away for a few minutes.</p>
+
+<p>Store valuable in a locked cabinet or drawer.</p>
+
+<p>Consider purchasing a locked device for portable items such as laptop
+computers.</p>
+
+<p>Make sure university electronic equipment such as laptops and mobile
+phones is properly encrypted.</p>
+
+<p>If you see someone or something suspicious, report it immediately be
+calling 9-1-1.</p>
+
+<p id="post-date">Posted 03/25/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+ <h3><a name=""></a><u>Road Closure UPDATE 3/24/16</u></h3>
+
+ <p>Junipero Serra Blvd., between Campus Drive West and Alpine Road is now open. </p>
+
+<p id="post-date">Posted 03/24/16</p>
+
+ <h3><a name=""></a><u>Road Closure 3/24/16, 3:45pm</u></h3>
+
+ <p>Junipero Serra Blvd., between Campus Drive West and Alpine Road has been closed due to a traffic collision. Use alternate routes.  Updates will be posted when available at <a href="http://emergency.stanford.edu"> emergency.stanford.edu </a> and on this website. </p>
+
+<p id="post-date">Posted 03/24/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Road Reopened; Power Restored</u></h3>
+
+<p>Campus Drive between Mayfield Avenue and Junipero Serra Boulevard has reopened after it was closed this morning as Stanford Public Safety and PG&E responded to a fallen tree that had damaged a power line. As a result of the damage, power was out for part of the day in some student and faculty residences in the area. Crews worked through the afternoon and evening to remove the tree and repair the damage. Power has now been fully restored.</p>
+
+<p id="post-date">Posted 03/09/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+
+  <h3><a name=""></a><u>Road closure Update 3/8/16, 4:50pm</u></h3>
+
+<p>Campus Drive between Mayfield Avenue and Junipero Serra Boulevard remains closed until about 8 p.m. due to a fallen tree that damaged power lines this morning. PG&E continues to work to remove the tree and restore power to affected buildings. Stanford Public Safety is monitoring the situation. Updates will be posted at emergency.stanford.edu.</a><br></p>
+
+<p id="post-date">Posted 03/08/16</p>
+
+
+
+
+ <h3><a name=""></a><u>Road closure Update 3/8/16</u></h3>
+
+<p>Campus Drive between Junipero Serra and Mayfield Ave continues to be closed. Some student and faculty residences along Campus Drive between Mirada Avenue  and Lane C  and from Campus Drive to Frenchmanâs Road are without power and networking service after a fallen tree damaged a power line. PG&E is on the scene and is currently working to restore power, and Stanford IT Services is monitoring the situation. There is no estimate for when services will be restored. Pedestrians and bicyclists are asked to continue avoiding Campus Drive between Mayfield Avenue and Junipero Serra Boulevard.  Updates posted at <a href="http://emergency.stanford.edu"> emergency.stanford.edu </a><br></p>
+
+<p id="post-date">Posted 03/08/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Road Closure 3/8/16 10:32am</u></h3>
+
+<p>Campus Dr between Junipero Serra and Mayfield Ave are closed to due to falling tree and potential impact to electrical wires.  Additionally, Police are asking pedestrians to avoid the foot path between Campus Dr. and Constanzo St.  Updates when available at <a href="http://emergency.stanford.edu"> emergency.stanford.edu </a><br></p>
+
+<p id="post-date">Posted 03/08/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Community Alert - Sexual Assault/Rape</u></h3>
+
+<p>The Stanford University Department of Public Safety was notified today about a rape perpetrated by a person whom the victim did not know. The incident occurred on or about February 1, 2016, at approximately 6:30pm, near the area of Arboretum and Quarry Roads.  The suspect is described as a white male, 6 feet tall, wearing all black clothing.  No additional information about the suspect or the specifics of the crime is available at this time.<br>
+<br>
+Anyone with information about this crime is asked to contact the Stanford University Department of Public Safety at 650.329.2413.<br>
+<br>
+Updates, when available, will be posted at <a href="http://emergency.stanford.edu/category/alertsu"> emergency.stanford.edu/category/alertsu </a><br>
+<br>
+Stanford University does not tolerate sexual assault, sexual misconduct or sexual harassment. The university encourages anyone who has been sexually assaulted or subject to other forms of sexual misconduct or harassment to report the incident to university officials.<br>
+<br>
+The information about this incident is being reported to you in accordance with the Clery Act.<br>
+<br>
+<br>
+<b>CONFIDENTIAL COUNSELING:</b><br />
+Stanford Confidential Support Team</br>
+<a href="https://vaden.stanford.edu/get-help-now/sexual-assault"> https://vaden.stanford.edu/get-help-now/sexual-assault</a>
+<br>
+650-726-6933 or 650-725-9955 (after hours)<br />
+<br />
+
+YWCA Stanford Rape Crisis Hotline<br />
+650-493-7273<br />
+<br />
+
+CAPS (Counseling and Psychological Services)<br />
+650-723-3785<br>
+<a href="https://vaden.stanford.edu/caps-and-wellness/counseling-and-psychological-services-caps"> https://vaden.stanford.edu/caps-and-wellness/counseling-and-psychological-services-caps</a>
+<br><br>
+
+Faculty Staff Help Center<br />
+650-723-4577<br>
+<a href="https://cardinalatwork.stanford.edu/faculty-staff-help-center"> https://cardinalatwork.stanford.edu/faculty-staff-help-center</a>
+<br><br>
+
+<b>NON-CONFIDENTIAL RESOURCES AND REPORTING:</b><br />
+Title IX Office<br>
+<a href="https://titleix.stanford.edu"> https://titleix.stanford.edu</a><br>
+650-497-4955<br>
+<br>
+
+Sexual Assault and Relationship Abuse (SARA) Office<br>
+<a href="https://sara.stanford.edu"> https://sara.stanford.edu</a>
+<br><br>
+
+Police<br />
+911 (emergency)<br />
+650-329-2413 (non-emergency)<br />
+650-723-9633 (8am-5pm)<br>
+<a href="https://police.stanford.edu"> https://police.stanford.edu</a>
+<br><br>
+
+<b>ADDITIONAL RESOURCES:</b><br />
+Sexual Harassment Policy Office<br>
+<a href="https://harass.stanford.edu"> https://harass.stanford.edu</a>
+<br><br>
+Stanford Sexual Assault Support Resources (Not Alone website)<br>
+<a href="https://notalone.stanford.edu"> https://notalone.stanford.edu</a><br><br>
+
+<a href="https://stanford.app.box.com/sexual-assault-resources"> https://stanford.app.box.com/sexual-assault-resources</a> (handout)
+<br><br>
+Stanford Actions on Sexual Assault<br>
+<a href="https://notalone.stanford.edu/stanford-actions-sexual-assault"> https://notalone.stanford.edu/stanford-actions-sexual-assault</a>
+<br>
+<p id="post-date">Posted 02/12/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+ <h3><a name=""></a><u>Sexual Battery 1-16-2016</u></h3>
+
+<p>January 1-16-2016: Reported Sexual Battery at a Main Quad restroom, 8 pm.  The suspect was described as a white male adult about 6 feet tall with a full beard.  He was wearing a red Stanford hoodie sweatshirt with black Stanford sweatpants and white shoes.  He appeared to be in his early 20's.  Be alert & protect yourself.  Updates when available at emergency.stanford.edu </p>
+<p></p>
+<p>Stanford University does not tolerate sexual assault, sexual misconduct or sexual harassment. The university encourages anyone who has been sexually assaulted or subject to other forms of sexual misconduct or harassment to report the incident to university officials. </p>
+<p></p>
+<p>The information about this incident is being reported to you in accordance with the Clery Act. The remainder of this email provides information about preventing and reporting sexual assault. </p>
+<ul>
+<li>Ignorance of the law or of university policy concerning sexual assault, sexual  misconduct and sexual harassment is not a defense.
+<li>Receive affirmative consent from your partner before engaging in sexual activity.
+<li>Perpetrators may attempt to use alcohol to facilitate a sexual assault. Statistically, the majority of reported sexual  assaults occur while one or both parties are under the influence of alcohol or drugs.  Alcohol or drugs may impair one's ability to judge whether or not consent has been given, but it is never an excuse for choosing to violate another person.
+<li>There are a number of drugs that may be added to beverages with the intent of altering the consciousness or incapacitating a person without their knowledge. These drugs are particularly dangerous when combined with alcohol and often produce amnesia, leaving a victim unclear about what occurred afterward. These drugs can facilitate criminal activity, most often acts of sexual misconduct or sexual assault.
+</ul>
+<p>If you or someone you know has been sexually assaulted, or if you aren't sure whether you or someone you know has been sexually assaulted, there are a number of resources available to you at Stanford to inform you of your options and to support you in whatever path you choose to take in addressing the incident. For more information contact: </p>
+<p></p>
+Sexual Assault and Relationship Abuse (SARA) Office<br> <a href="https://sara.stanford.edu"> https://sara.stanford.edu</a>
+<br><br>
+Sexual Harassment Policy Office<br> <a href="https://harass.stanford.edu"> https://harass.stanford.edu</a>
+<br><br>
+Title IX Office <br> <a href="https://titleix.stanford.edu"> https://titleix.stanford.edu</a>
+<br><br>
+Wellness Resources at Stanford<br> <a href="https://wellness.stanford.edu"> https://wellness.stanford.edu</a><br><br>
+ or the Stanford Department of Public Safety via this website or by calling (650)723-9633 during regular business hours.
+
+<p id="post-date">Posted 01-17-16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+
+<h3><a name="winter16"></a><u>Thefts From Vehicles</u></h3>
+
+<p>This Community Alert is to notify the Stanford community that there has been a recent spike in thefts from vehicles. The thefts have occurred at various locations and times on campus. Several of these thefts have occurred from vehicles parked at Nixon Elementary School after school hours and on weekends. The method of entry into the vehicles has been through unlocked doors or by smashing a window. To help avoid becoming a victim, the Stanford University Department of Public Safety (SUDPS) is encouraging individuals to follow a few simple practices:</p>
+
+<p>- Do not leave valuables exposed inside a vehicle, including shopping bags with the store name or logo printed on the side. You should take them with you or secure them in the trunk.</p>
+
+<p>- LOCK the doors and roll up the windows whenever you will be away from your vehicle. </p>
+
+<p>- If your vehicle is equipped with an alarm system, activate it each time you leave the vehicle unattended.</p>
+
+<p>- Park in lighted and visible parking lots and streets, when possible.</p>
+
+<p>- Avoid parking next to or between larger vehicles than yours that can provide concealment for a thief (vans, SUVs, trucks).</p>
+
+<p>- Most importantly, dial 9-1-1 immediately if you observe any suspicious activity or behavior (e.g. an individual loitering around vehicles, peering into vehicles, and/or trying door handles), or if you are a victim of a theft.</p>
+
+<p>If you have any questions, concerns, or would like additional information on crime prevention, please call SUDPS at (650) 723-9633 (M-F, 8am to 5pm) or email us at police@stanford.edu. </p>
+
+<p id="post-date">Posted 1/14/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Online Blackmail Scam</u></h3>
+
+<p>The Department of Public Safety has been made aware of fraudulent online activity impacting individuals at Stanford. As a result, campus police are warning users of internet-based video chat programs (such as Skype) about an online blackmail scam.</p>
+
+<p>To carry out the scam, the offender contacted the individual victims on a social networking site using an assumed identity.  After establishing a relationship, the offender convinced the  victims to engage in intimate acts which the victims believed were taking place in a private video chat session. Unbeknownst to the individual victims, the victim's actions were recorded by the suspect.  Later, the offender blackmailed the individual victims with the threat of releasing the recorded footage to their social media contacts unless payment was made (usually via a wire transfer).  The suspect(s) did send the recorded material of at least one of the victims to others without the victim's consent.</p>
+
+<p>To avoid becoming a victim, we recommend the following:</p>
+
+<p>- Refrain from video chatting (e.g. webcam) with, or sending photos or videos to, anyone whom you do not know and trust.</p>
+
+<p>- Assume any private video footage or images you transmit over the internet could become public without your knowledge or consent.</p>
+
+<p>- Set social media preferences to private, including your contact list.</p>
+
+<p>- Make sure that your software and systems are up-to-date and that you are using up-to-date security software.
+Be aware that anything you do on the internet, including video and voice calls, can be recorded.</p>
+
+<p>- Be cautious about people whom you meet online. They may not be whom they claim to be.</p>
+
+<p>Revealing personal details online is extremely risky. If you are a victim of any scam or fraud, please report it immediately to the Stanford University Department of Public Safety at (650) 329-2413 (24/7) or your local law enforcement agency.  </p>
+
+<p id="post-date">Posted 1/10/16</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+
+ <h3><a name="fall15"></a><u>Attempted Theft From Vehicle</u></h3>
+
+<p>On Tuesday, December 8th, at approximately 7:50pm, an attempted theft from inside a vehicle occurred in the parking lot of the Pearce Mitchell Houses at Campus Dr. and Mayfield Ave. The unknown subject entered the unlocked vehicle, but no property was taken. The owner discovered the subject inside his vehicle, who then fled east down Mayfield Ave. into residential housing. The subject was a white male approximately 5â7â³ in his 20s or 30s and was wearing a green shirt with black shorts over black tights.
+</p><p>The Stanford police encourage individuals to keep their doors and windows locked. Additionally, we ask the community to report suspicious and criminal activity to the police as soon as possible.</p><p>Anyone with additional information should contact the Stanford Police at 650-329-2413.</p>
+
+<p id="post-date">Posted 12/08/2015</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Burglary 11/16/15</u></h3>
+
+<p>On Monday evening 11/16/15, 9:56PM, the Stanford Police received a report that a burglary had occurred at the Schiff House Dormitory on Santa Theresa Lane. Witnesses reported the suspect entered the dorm room. When confronted by the resident, the suspect exited the dorm room and the building.</p><p>Witnesses described the suspect as a white male adult, 50-60 years of age, bald, wearing glasses, wearing a black polo style shirt with a Stanford "S" logo, also carrying a dark colored backpack with a Stanford logo.</p><p>The Stanford Department of Public Safety encourages individuals to be alert and take measures to protect yourself. Keep doors and windows locked and to call 911 to report suspicious activity.</p><p>Additionally, we ask the community to report suspicious and criminal activity to the police as soon as possible. Anyone with information regarding this case should contact the Stanford Police at 650-329-2413.</p><p>Additional information will be posted on this website if it becomes available.</p>
+
+<p id="post-date">Posted 11/16/15</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+ <h3><a name=""></a><u>Indecent Exposure</u></h3>
+
+<p>On Monday, November 2nd, at approximately 5:00am, a male (who was not recognized as a resident of the dorm) deliberately exposed himself to another male at the Castano dorm located at 685 Escondido Road.</p><p>The victim described the suspect as a dark skinned Hispanic or Southeast Asian male; late 20â²s to 30 years old; 5â5â³ with a heavy build. The suspect was last seen wearing a black âflip billedâ cap, a black tank top, unknown color shorts, and black and white checkered ?Vans? tennis shoes that were old and worn. The suspect may have a slight mustache and/or goatee.</p><p>For the safety and security of our community, the Department of Public Safety encourages community members to report crimes and suspicious activity or behavior immediately by calling 9-1-1 (9-9-1-1 from a campus phone).
+</p>
+
+<p id="post-date">Posted 10/02/2015</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Police Activity Update 10/17/15</u></h3>
+
+<p>As previously reported via text and email, there is police activity on Junipero Serra Blvd impacting the surrounding areas. A major injury collision has occurred on JSerra between Campus Drive East and Stanford Ave. Junipero Serra will be closed until further notice. Please take alternate routes and avoid the area.</p><p>Further updates will be posted when available on this website.
+</p>
+
+<p id="post-date">Posted 10/17/2015</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Fire Update/Power Outage 10/12/2015</u></h3>
+
+<p>Campus officials are working to restore power to approximately 35 buildings impacted by a power outage. Lands, Buildings and Real Estate (LBRE) Operations Center is communicating directly with building managers about the power outage. The electrical fire at Maples is thought to be related to the power outage. No one was injured in the fire at Maples, which occurred in the southeast corner of the building. Fire crews have departed Maples. Updates will be posted at <a href="http://emergency.stanford.edu" target="_blank">emergency.stanford.edu</a></p>
+
+<p id="post-date">Posted 10/12/15</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Fire 10/12/2015</u></h3>
+
+<p>Fire at Maples Pavilion - Road closures at Campus Drive between Bonair Siding and Sam McDonald Mall.  Pedestrians avoid all areas surrounding Maples Pavilion until further notice.</p>
+
+<p id="post-date">Posted 10/12/2015</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ <h3><a name=""></a><u>Sexual Battery</u></h3>
+
+<p>On 9/18/15 at 10:01 PM, a sexual battery occurred at Tresidder Memorial Union. The suspect was apprehended by Stanford deputies at 10:22 PM without further incident.</p>
+
+
+<p>Stanford Police encourages everyone to be aware of their surroundings and report suspicious and criminal activity to the police by calling 911 as soon as possible.</p>
+
+<p id="post-date">Posted 9/18/15</p>
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+<h3><a name=""></a><u>Update: Missing Person 9/14/15</u></h3>
+
+<p>The at-risk missing adult male named Richard was located in good health and reunited with his family. No further assistance is needed.</p>
+
+
+<p id="post-date">Posted 9/15/15</p>
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Missing Person 9/14/15</u></h3>
+
+<p>The Department of Public Safety has been notified of an at-risk missing adult male. He was last seen at his on-campus residence this morning.</p>
+
+<p>The missing male, named Richard, is 85 years of age and described as a white male, 5' 8" tall and approximately 145 pounds. He has gray eyes and is mostly bald with some gray hair. He was last seen wearing a green t-shirt printed with the words "Marco Island" and khaki shorts.</p>
+
+<p>Richard may be traveling in a blue Ford C-MAX with Minnesota license plates.</p>
+
+<p>If seen, please contact the Stanford University Department of Public Safety at 650-329-2413.</p>
+
+<p>Updates, when available, will be posted to this website.</p>
+
+
+<p id="post-date">Posted 9/14/2015</p>
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<!-- begin include: /scripts/includes/footer.inc -->
+
+						</div><!-- // center-col -->
+					</div><!-- // main-col -->
+				</div><!-- // content-area -->
+			</div><!-- // container -->
+
+						<center id="footer"><a href="http://www.stanford.edu" class="footer" target="_blank">Stanford University</a> | <a href="http://police.stanford.edu/police-map.shtml" class="footer" target="_blank">Map & Directions</a> | <a href="http://police.stanford.edu/contact.shtml" class="footer" target="_blank">Contact Us</a> | <a href="http://police.stanford.edu/sitemap.shtml" class="footer" target="_blank">Site Map</a> | <a href="http://www.stanford.edu/group/SUDPS/pdf-restricted/Internal.shtml" class="footer">SUDPS Personnel Only</a><br>&#169 <span class="fn org">Stanford University</span>. <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span>. <span class="tel">(650)
+        723-2300</span></span>.</center>
+
+		</div><!-- // mainWrapper -->
+	</div><!-- // wrapper -->
+
+</body>
+</html>
+
+<!-- end include: /scripts/includes/footer.inc -->
+
+
+
+
