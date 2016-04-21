@@ -1,0 +1,565 @@
+<!Doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>
+		SUDPS Community Crime Alerts - 2010-2011
+	</title>
+	
+	<meta name="description" content="The Stanford University Department of Public Safety - Community Crime Alerts - 2010-2011">
+	<meta name="keywords" content="index, stanford, Stanford, police, employment, police jobs, recruiting, police recruiting, Stanford police, stanford websites, stanford web, stanford home page, university, college">
+
+	<link rel="stylesheet" type="text/css" href="scripts/global5.css" />
+	<link rel="stylesheet" type="text/css" href="scripts/styles5.css" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35141420-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<!-- begin include: /scripts/includes/header.inc -->
+ 
+	
+	<script type="text/javascript" src="scripts/main-nav-images.js"></script>
+	
+<!-- ULTIMATE DROP DOWN MENU Version 4.44 by Brothercake -->
+		<!-- https://www.udm4.com/ -->
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-custom-blue.js"></script>
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-control.js"></script>
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-style.js"></script>
+
+
+		<script type="text/javascript" language="JavaScript1.1">
+<!--
+
+//Pixelating Image slideshow
+//Copyright Dynamic Drive 2001
+//Visit https://www.dynamicdrive.com for this script
+
+//specify interval between slide (in mili seconds)
+var slidespeed=12000
+//specify images
+var slideimages=new Array("https://www.stanford.edu/group/SUDPS/images/quote-box/core-pre.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/we-pledge.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/core-post.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/SUDPS-enviro.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/no-typical-day.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/best-ucanb.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/extra-mile.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/on-foot.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/sense-trouble.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/vehicle-safety.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/driving.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/beware-drivers.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/ATMs.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/id-theft.gif")
+//specify corresponding links
+var slidelinks=new Array("https://www.stanford.edu/group/SUDPS/index.shtml")
+
+var imageholder=new Array()
+var ie55=window.createPopup
+for (i=0;i<slideimages.length;i++){
+imageholder[i]=new Image()
+imageholder[i].src=slideimages[i]
+}
+
+function gotoshow(){
+window.location=slidelinks[whichlink]
+}
+
+//-->
+</script>
+
+</head>
+<body>
+
+<div style="text-align: center; margin: 0 auto;"><a name="pagetop"></a><img src="https://www.stanford.edu/group/SUDPS/images/top-border.jpg" width="770" height="5" alt="" border="0" /></div>
+	<div id="wrapper">			
+		<div id="mainWrapper">
+			<div id="container">
+			
+<!-- end include: /scripts/includes/header.inc -->
+				
+				<div id="main_pageheader">
+					<div id="header-text">Community Crime Alerts</div>
+				</div>
+				
+				<div id="nav-spacer"></div>
+				<div id="main_nav-q">
+
+<!-- BEGIN INCLUDE: /scripts/includes/nav-imagemap.inc -->	
+				
+<img src="http://www.stanford.edu/group/SUDPS/images/y-menu4.jpg" width="760" height="46" usemap="#tabsMap" border="0" align="bottom" name="imagemap">
+
+<map name="tabsMap">	 
+   <area shape="rect" coords="0,5,63,48" href="http://www.stanford.edu/group/SUDPS/index.shtml" onMouseover="dropdownmenu(this, event, menu0, '149px');rollOver('imagemap','home')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="65,5,163,48" href="http://www.stanford.edu/group/SUDPS/safety-report.shtml" onMouseover="dropdownmenu(this, event, menu1, '149px');rollOver('imagemap','safety')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="165,5,246,48" href="http://www.stanford.edu/group/SUDPS/crime-alert.shtml" onMouseover="dropdownmenu(this, event, menu2, '149px');rollOver('imagemap','crime-alerts')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="248,5,329,48" href="http://www.stanford.edu/group/SUDPS/employment.shtml" onMouseover="dropdownmenu(this, event, menu3, '149px');rollOver('imagemap','employ')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="331,5,406,48" href="http://www.stanford.edu/group/SUDPS/outreach.shtml" onMouseover="dropdownmenu(this, event, menu4, '149px');rollOver('imagemap','outreach')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="408,5,468,48" href="http://www.stanford.edu/group/SUDPS/event-security.shtml" onMouseover="dropdownmenu(this, event, menu5, '149px');rollOver('imagemap','event')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="469,5,529,48" href="http://www.stanford.edu/group/SUDPS/livescan.shtml" onMouseover="dropdownmenu(this, event, menu6, '149px');rollOver('imagemap','livescan')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="532,5,610,48" href="http://www.stanford.edu/group/SUDPS/forms.shtml" onMouseover="dropdownmenu(this, event, menu7, '149px');rollOver('imagemap','forms')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="613,5,667,48" href="http://www.stanford.edu/group/SUDPS/links.shtml" onMouseover="dropdownmenu(this, event, menu8, '149px');rollOver('imagemap','links')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="670,5,742,48" href="http://www.stanford.edu/group/SUDPS/contact.shtml" onMouseover="dropdownmenu(this, event, menu9, '149px');rollOver('imagemap','contact')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+</map>
+
+<!-- END INCLUDE: /scripts/includes/nav-imagemap.inc -->	
+
+					</div>
+				<div id="nav-spacer"></div>
+				
+				<div id="content-area">
+					<div id="left-col">
+						<div id="left-nav"><!-- begin include: /scripts/includes/crime-alert-nav.inc -->
+
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-dom.js"></script>
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-mod-keyboard.js"></script>
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-x-sliding.js"></script>
+
+<ul id="udm" class="udm">
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1516.shtml" title="2015-2016">2015-2016</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#summer16" title="Summer 2016">Summer 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#spring16" title="Spring 2016">Spring 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#winter16" title="Winter 2016">Winter 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#fall15" title="Fall 2015">Fall 2015</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml" title="2014-2015">2014-2015</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#summer15" title="Summer 2015">Summer 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#spring15" title="Spring 2015">Spring 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#winter15" title="Winter 2015">Winter 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#fall14" title="Fall 2014">Fall 2014</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml" title="2013-2014">2013-2014</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#summer14" title="Summer 2014">Summer 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#spring14" title="Spring 2014">Spring 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#winter14" title="Winter 2014">Winter 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#fall13" title="Fall 2013">Fall 2013</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml" title="2012-2013">2012-2013</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#summer13" title="Summer 2013">Summer 2013</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#spring13" title="Spring 2013">Spring 2013</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#winter13" title="Winter 2013">Winter 2013</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#fall12" title="Fall 2012">Fall 2012</a></li>
+ 		</ul>
+
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml" title="2011-2012">2011-2012</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml" title="Summer 2012">Summer 2012</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#spring12" title="Spring 2012">Spring 2012</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#winter12" title="Winter 2012">Winter 2012</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#fall11" title="Fall 2011">Fall 2011</a></li>
+ 		</ul>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml" title="2010-2011">2010-2011</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml" title="Summer 2011">Summer 2011</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#spring11" title="Spring 2011">Spring 2011</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#winter11" title="Winter 2011">Winter 2011</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#fall10" title="Fall 2010">Fall 2010</a></li>
+ 		</ul>
+ 	</li>
+<!--	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml" title="2009-2010">2009-2010</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#summer10" title="Summer 2010">Summer 2010</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#spring10" title="Spring 2010">Spring 2010</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#winter10" title="Winter 2009">Winter 2010</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#fall09" title="Fall 2009">Fall 2009</a></li>
+ 		</ul>
+ 	</li>
+-->	
+  
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert.shtml#safety" title="Public Safety Reminders">Public Safety Reminders</a></li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/safety-report/toc.shtml" title="Crime & Safety Tips">Crime & Safety Tips</a>
+  	<ul>
+			<li><a href="safety-report/alcohol.shtml">Alcohol, Drug, and Driving Laws</a></li>
+			<li><a href="safety-report/bicycle.shtml">Bicycle Safety and Security **</a></li>
+			<li><a href="safety-report/bomb-threat.shtml">Bomb Threat Safety Instructions</a></li>
+			<li><a href="safety-report/dv.shtml">Domestic Violence</a></li>
+			<li><a href="safety-report/emergency.shtml">Emergency Preparedness</a></li>
+			<li><a href="safety-report/justice-system.shtml">How to Navigate the Criminal Justice System</a></li>
+			<li><a href="safety-report/mail-bomb.shtml">Letter and Package Bomb Indicators</a></li>
+			<li><a href="safety-report/pedestrian.shtml">Pedestrian Safety Zone</a></li>
+			<li><a href="safety-report/personal-safety.shtml">Personal Safety and Protection</a></li>			
+			<li><a href="safety-report/property.shtml">Property Protection **</a></li>
+			<li><a href="safety-report/reporting.shtml">Reporting Crime and Suspicious Activity</a></li>
+			<li><a href="safety-report/sexual-assault.shtml">Sexual Assault</a></li>
+			<li><a href="safety-report/phone-bomb.shtml">Telephone Bomb Threat Report Form</a></a></li>
+ 		</ul>
+	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/reporting.shtml" title="Reporting Crime">Reporting Crime</a></li>
+</ul>
+
+<!-- end include: /scripts/includes/crime-alert-nav.inc -->
+						</div><!-- // left-nav -->
+
+						<div id="search-box">
+							<div id="nav-spacer"></div>
+								<!-- BEGIN INCLUDE: /scripts/includes/search.inc -->			
+
+<div id="search-btn">
+<form method="get" action="http://www.stanford.edu/search">
+<input type="text" name="q" size="10" maxlength="100" value="" />&nbsp;
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cx" value="003265255082301896483:sq5n7qoyfh8" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+
+<input type="hidden" name="as_dt" value="i" />
+<input type="hidden" name="as_sitesearch" value="stanford.edu/group/SUDPS" />
+
+</form></div>
+
+<!-- END INCLUDE: /scripts/includes/search.inc -->
+							<div id="nav-spacer"></div>
+						</div><!-- // search-box -->
+							
+						<!-- begin include: /scripts/includes/left-content.inc -->
+
+							<div id="left-content">
+								<p>
+									
+									<!-- Quote Box -->
+      	<a href="javascript:gotoshow()"><img src="photo1.jpg" alt="SUDPS quotes" name="slide" border=0 style="filter:progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)"></a>
+
+<script language="JavaScript1.1">
+<!--
+var whichlink=0
+var whichimage=0
+var pixeldelay=(ie55)? document.images.slide.filters[0].duration*1000 : 0
+function slideit(){
+if (!document.images) return
+if (ie55) document.images.slide.filters[0].apply()
+document.images.slide.src=imageholder[whichimage].src
+if (ie55) document.images.slide.filters[0].play()
+whichlink=whichimage
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+setTimeout("slideit()",slidespeed+pixeldelay)
+}
+slideit()
+
+//-->
+</script>
+									
+									
+		</p>
+		
+		<p><a href="http://studentaffairs.stanford.edu/sara" target="_blank"><img src="http://www.stanford.edu/group/SUDPS/images/SVABarches.jpg" border="0" /></a>
+			<a href="http://www.stanford.edu/group/SUDPS/employment.shtml"><img src="http://www.stanford.edu/group/SUDPS/images/now-hiring.jpg" border="0" /></a>
+			
+			
+	</p>
+						</div><!-- // left-content -->
+						
+<!-- end include: /scripts/includes/left-content.inc -->
+
+					</div><!-- // left-col -->
+					
+					<div id="main-col">
+						
+						
+						
+												<!-- right-col content -->
+				
+						
+		<!-- center-col -->						
+			
+							
+						<div id="center-col">
+
+<div id="bread-crumbs"><a href="index.shtml" class="bread-crumbs">Home</a> > <a href="crime-alert.shtml" class="bread-crumbs">Community Crime Alerts</a> > <font color="#393a38">2010-2011</font></div>
+
+<p align="center"><img src="images/crime-alert.jpg" /></p>
+
+<p><i><b>Community Crime Alerts</B> are reports of major criminal incidents on the campus that could potentially affect the larger Stanford community.  While such crimes are not indicative of life on campus, it is important to be aware of them when they do occur and to take the appropriate precautions.</i></p>
+
+<p><i>The following crime alerts were put out by the Stanford University Department of Public Safety during the academic year of 2010-2011.  Crime Alerts are listed according to the most recent incident.</i></p>
+
+<p><hr>
+
+<p align="center"><b><a href="#fall10">Fall 2010</a> | <a href="#winter11">Winter 2011</a> |<a href="#spring11">Spring 2011</a> | 
+<!--<a href="#summer11">-->Summer 2011</a></b></p>
+
+
+<p><hr>
+
+<!--  // Timely Warning Programming Instructions.
+
+// To insert a new timely warning, copy the information immediately below, paste it below the "right arrow" and edit it accordingly using the following format:  replace the xxx with the Title, the yyy with the Content, and the zzz with the Date you posted the alert.  Everything else should remain the same.  Afterwards, send me an email: tbolle@stanford.edu so that I can double-check.
+
+
+
+
+
+<h3><a name=""></a><u>xxxxxxx</u></h3>
+
+<p>yyyyyyyyyyyyyyyyyyyyyyyyyyyyy</p>
+
+<p id="post-date">Posted zz/zz/zz</p>	
+		
+
+
+
+
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+ -->
+ 
+ 
+ 
+
+<h3><a name=""></a><u>Suspicious Person</u></h3>
+
+<p>On Wednesday June 1, 2011, a male subject attempted to contact two different female students at their residences -- Munger #4 and Xanadu. The subject was described as a 67 years old, white male standing 5'10 tall, weighing 140 lbs, with grayish brown hair, green eyes, a fair complexion and wearing glasses. </p>
+
+<p>The subject had previously initiated conversations with both students at separate times and places. He was able to obtain each studentâs email address and days later emailed them. When they did not respond to his email, he attempted to locate them at their residences. No violence or criminal activity was associated with these contacts.</p>
+
+<p>The subject is known to the Department of Public Safety. He has a history of posing as someone affiliated with Stanford University, most recently as a Stanford professor looking to hire students for paid internships. He targets female students; requesting email addresses and eventually trying to find out where the student lives. He is often accompanied by his elderly mother.</p>
+
+<p>The subject was admonished by the Department of Public Safety not to enter student residences. If he is found inside a student residence contact SUDPS at 650-329-2413. </p>
+
+<p>The Department of Public Safety would like to remind everyone to keep all doors secured and be cautious when sharing personal information with people whom you do not know. 
+</p>
+
+<p id="post-date">Posted 06/02/11</p>	
+		
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name="spring11"></a><u>Update to Shots Fired from 5/14/11</u></h3>
+
+<p>On Saturday, May 14, 2011 at 7:17pm, as patrons were leaving a student sponsored event held on Roble Field of the Stanford campus, multiple gunshots were heard coming from the Lagunita parking lot, which is located across the street from Roble field.  </p>
+<p> 
+At this time, it is unknown if any of the gun shots were directed at an individual, but no injuries were reported at the time of the incident and no injuries have been reported since the incident.   Witnesses did observe an individual shoot several gun shots into the asphalt of the parking lot before getting into a vehicle with large wheels and flee the scene.   The handgun involved in this act was described by a witness as being black in color. </p>
+<p>  
+An officer responding to the scene observed a vehicle matching the description provided by witnesses of an involved vehicle, and attempted to stop the vehicle.   The vehicle failed to yield and a vehicle pursuit ensued.   During the pursuit, two passengers bailed from the vehicle and fled into the wooded area bordered by Campus Dr, Quarry Rd, Palm Drive and El Camino Real.   Police subsequently detained and questioned two individuals found in this area.  The fleeing vehicle, a white Lexus, was found abandoned in a parking lot and is in police custody.  </p>
+<p>
+A second vehicle has been identified as being involved in the incident.  Witnesses describe the second vehicle as an older, 2-door vehicle, possibly a Lexus or Buick, which is burnt orange, brown, or gold in color.  This vehicle has distinct, large rims (possibly 24 inches in diameter) and scissor-doors (doors that rotate vertically at a fixed hinge at the front of the door, rather than outwardly as with a conventional door).    The driver of the second vehicle was observed waving a handgun, possibly silver in color, out of the open window on the driver's side of the vehicle as he left the scene on Santa Teresa Street.   One witness described the driver waving the hand gun as a Black male wearing a baseball cap with a red brim. </p>  
+<p>
+Stanford Police are continuing to investigate this incident and ask that anyone with information please contact the Stanford Police at 650-329-2413.
+</p>
+
+<p id="post-date">Posted 05/15/11</p>
+
+<h3><a name=""></a><u>Update to Shots Fired</u></h3>
+
+<p>As of 9:15 pm, 05/14/11, the Stanford Police are questioning 2 individuals in association with the shots fired incident reported earlier in the evening. <p> Stanford police believe there are two subjects still outstanding who may be related to this incident.<p>Anyone with information related to this crime is urged to contact the Stanford Police at 650/329-2413.</p>
+
+<p id="post-date">Posted 05/14/11</p>
+
+<h3><a name=""></a><u>Shots Fired</u></h3>
+
+<p>On Saturday, May 14 at approximately 7:17pm, shots were fired in the Lagunita parking lot.  No one was injured.  Police currently have possible suspects detained.  An outstanding suspect is described as being a black male, 18-20 years of age, with a slender build and long dreadlocks, possibly armed with a silver hand gun.<p>
+The motivation for the shooting is unknown at this time.<p>
+Anyone with information related to this crime is encouraged to contact the Stanford Police at 650/329-2413.
+</p>
+
+<p id="post-date">Posted 05/14/11</p>	
+
+<h3><a name=""></a><u>Robbery</u></h3>
+
+<p><p>On Sunday, 04/24/11 at around 3:50 AM, a graduate student awoke to find an intruder in the living room of his apartment at the Munger Graduate Residence. The victim confronted the suspect, who then fled the residence with a suitcase filled with the victim's property. A man matching the suspect's description was spotted walking on Galvez Street near the Stanford Stadium a short time after the robbery. Before police could contact him, he disappeared into the groves. A few minutes later, an officer attempted to stop a black Dodge Charger on Arboretum Road near the location where the suspect had last been seen. Initially, the driver complied and stopped the vehicle, but then the vehicle sped away at a high rate of speed. The vehicle was last seen on Embarcadero Road heading toward Highway 101. It was occupied by several black males, some of whom may have had dreadlocks.
+
+<p>The victim's suitcase was later recovered in the groves with his property still in it along with several other electronic items that did not belong to the victim.
+
+<p>The suspect was described by the victim as a black male in his mid-twenties, with a dark complexion and short black hair (as viewed from the front). He stood about 5'2 to 5'4 and had a chubby build. The suspect most likely entered the apartment through an unlocked door. Anyone with information about this crime is encouraged to contact the Stanford Police at 650-329-2413. Stanford Police remind people to take simple preventative measures - such as locking doors and windows, not propping open exterior doors - to help prevent criminal activity.</p></p>
+
+<p id="post-date">Posted 04/24/11</p>	
+		
+
+
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+ <h3><a name=""></a><u>Update  to Sexual Assault From 4/09/11</u></h3>
+
+<p>As previously reported, on Saturday, 04/09/11 at approximately
+9:40pm, an unidentified male suspect entered an apartment on the
+Stanford campus and sexually assaulted a female student who had been
+sleeping in her bedroom.  The suspect tried to hold the victim down
+as he assaulted her.  She resisted the assailant's attack, and he
+fled from the apartment.  Shortly after the assault, a K-9 from the
+Palo Alto Police Department tracked a scent from the apartment to the
+area of El Camino and Churchill St in Palo Alto, but the suspect was
+not located.   The point of entry in to the apartment may have been
+an unlocked door.
+
+<p>The victim initially described the suspect as a dark skinned male,
+possibly Black, around 30 years of age. Upon further reflection and
+discussion, the victim believes the suspect is more likely to be
+Asian Indian.  The suspect description now stands as follows:
+
+<p>Dark skinned male, possibly Asian Indian, approximately 30 years of
+age.  He stands 5'6" in height and has a chubby build.  He has short,
+wavy black hair and a rounded nose.  The suspect was last seen
+wearing jeans and a dark t-shirt.  The victim remembers smelling
+scent similar to apples at the time of the attack.
+
+<p>Anyone with information about this crime is urged to call the
+Stanford Department of Public Safety at 650-723-9633 or 650-329-2413.
+</p>
+
+<p id="post-date">Posted 04/13/11</p>	
+		
+
+
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+<h3><a name=""></a><u>Update to Sexual Assault Reported on 4/09/11</u></h3>
+
+<p>
+
+Police are continuing to investigate the sexual assault which took place on 4/9/11 at approximately 9:40pm in the Escondido Village area on the Stanford campus.  The victim updated her description of the suspect to be a dark-skinned male, possibly Black, approximately 5'6", and approximately 30 years of age.  The victim indicated that she awoke as the suspect was assaulting her.  She screamed and fought off the attacker, who then fled from the residence.  The unidentified suspect is still at large.
+
+<p>The Stanford Police encourage people to walk in pairs, carry a mobile phone, use well-traveled routes, know the location of the Blue tower emergency phones and to be aware of their surroundings.  Locking all doors and windows and NOT propping doors open are important crime prevention measures which should be practiced by all community members.  
+
+<p>Anyone with information which might help identify the suspect in this crime are urged to call the Stanford Department of Public Safety at 650-329-2413.</p>
+
+<p id="post-date">Posted 04/10/11</p>	
+		
+
+
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+
+
+<h3><a name=""></a><u>Sexual Assault</u></h3>
+
+<p>On April 9, 2011 at 9:30p.m., a sexual assault occurred in an Escondido Village Low Rise on Comstock Circle.  A male suspect gained entry to an apartment and entered the bedroom of the sleeping female victim.  When the victim awoke and screamed the suspect fled the scene in an unknown direction and is still at large.<p>
+The victim described the suspect as a dark skinned male, possibly Black approximately 30 years old and 5â4â tall. The suspect was wearing blue jeans and possibly a dark t-shirt. <p>Stanford Police strongly encourage people to lock their doors and windows. Notify the police immediately if you see suspicious activity. 
+Any one with information relating to this crime is urged to call the Stanford Police at 650-329-2413.</p>
+
+<p id="post-date">Posted 04/10/11</p>
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+
+<h3><a name=""></a><u>Suspicious Circumstances/Attempted Entry</u></h3>
+
+<p>On April 1, 2011, at 2:30 a.m., a female occupant interrupted an unknown male subject as he attempted to enter her apartment in Rains on Rosse Lane through a living room window.  The subject fled the scene and was last seen running towards Running Farm Lane with four additional male subjects.<p>The occupant described the subject who attempted entry as a white male, 16 to 22 years old, short with a thin build and long, bushy/curly brown hair. He was wearing red basketball shorts, a dark t-shirt and a dark baseball cap. <p>A second subject was identified as a male with blond hair wearing light blue shorts.There is no description for the other male subjects.<p>Stanford Police strongly encourage people to lock their doors and windows. Notify the police immediately if you see suspicious activity. If you have information about this incident please contact the Stanford Police at (650) 329-2413.</p>
+
+<p id="post-date">Posted 04/02/2011</p>	
+		
+
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+
+<h3><a name="winter11"></a><u>Mountain Lion Precaution</u></h3>
+
+<p>Evidence has been found that a mountain lion was present over the weekend in an area near the Golf Driving Range, Junipero Serra Boulevard and Campus Drive West.  Fresh tracks have been seen on dirt trails leading to Lake Lagunita, on the campus side of Junipero Serra.<br><br>
+
+The foothills and open spaces in and around the campus are known mountain lion habitat.  Members of the campus community are reminded to be alert to their surroundings, particularly when walking or jogging on trails in the early morning or early evening hours.<br><br>
+
+If you see a mountain lion, do not run and do not turn your back.  Appear larger by waving your arms or a jacket or other objects above your head.  Make loud sounds and yell. Grab a stick or rock.  Keep young children close. Slowly move away while watching the animal. Attacks are very rare and most frequently the animal will go away.<br><br>
+
+If you see a mountain lion, immediately report any sightings to the Stanford Police at 650-329-2413.
+</p>
+
+<p id="post-date">Posted 01/17/11</p>
+
+<h3><a name=""></a><u>Hot Prowl</u></h3>
+
+<p>On January 8, 2011, at 12:45am, 3 unidentified males entered an unlocked and occupied dorm room at Grove Mayfield. The occupant, a female, awoke when she heard noises in her room. She saw 3 men and screamed. The suspects fled in an unknown direction.</p>
+
+<p>Stanford Police strongly encourage people to lock their doors and windows, to not prop open exterior doors and to report suspicious activity immediately to the police.</p>
+
+<p>Contact the Stanford Police at 650-329-2413 if you have any information about this incident.</p>
+
+<p id="post-date">Posted 01/08/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+ 
+ 
+ 
+ <h3><a name=""></a><u>UPDATE - Manzanita assault</u></h3>
+
+<p>The following is a police sketch of the suspect from the victim description. </p>
+<br>Anyone with information about this incident is encouraged to call the Stanford Police at (650) 329-2413.</p>
+
+
+	<p align="center"><img src="images/manzanita-sketch.JPG"/></p>
+	
+<p id="post-date">Posted 01/07/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Assault - Update</u></h3>
+
+<p>
+<p>Update 10:30 p.m.
+<p>
+Additional information - The suspect called out 'Hey girl' before grabbing the victim and covering her mouth.
+
+<p>Officers continue to investigate this incident. There is no other additional information at this time.</p>
+
+</p>
+
+<p id="post-date">Posted 01/03/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+<h3><a name=""></a><u>Assault</u></h3>
+
+<p>On Monday, January 3rd at 6:40 p.m., a female student reported being assaulted near Manzanita Field. She was walking alone when an unidentified suspect came up behind her and placed his hand over her mouth. She reacted by trying to bite his hand and he fled. She describes the suspect as a Caucasian male in his 40s wearing a dark colored hooded sweat jacket. He had a mustache or goatee, brown hair, and a thin build.
+
+Anyone with information should contact the Stanford Police at 650-329-2413. Individuals are encouraged to walk in pairs, use suggested travel routes, know the location of the emergency bluetower phones and carry a cell phone.</p>
+
+<p id="post-date">Posted 01/03/11</p>	
+			
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+<!-- begin include: /scripts/includes/footer.inc -->
+
+						</div><!-- // center-col -->
+					</div><!-- // main-col -->
+				</div><!-- // content-area -->
+			</div><!-- // container -->
+			
+						<center id="footer"><a href="http://www.stanford.edu" class="footer" target="_blank">Stanford University</a> | <a href="http://police.stanford.edu/police-map.shtml" class="footer" target="_blank">Map & Directions</a> | <a href="http://police.stanford.edu/contact.shtml" class="footer" target="_blank">Contact Us</a> | <a href="http://police.stanford.edu/sitemap.shtml" class="footer" target="_blank">Site Map</a> | <a href="http://www.stanford.edu/group/SUDPS/pdf-restricted/Internal.shtml" class="footer">SUDPS Personnel Only</a><br>&#169 <span class="fn org">Stanford University</span>. <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span>. <span class="tel">(650)
+        723-2300</span></span>.</center>
+			
+		</div><!-- // mainWrapper -->
+	</div><!-- // wrapper -->
+
+</body>
+</html>
+
+<!-- end include: /scripts/includes/footer.inc -->

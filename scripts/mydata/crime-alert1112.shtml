@@ -1,0 +1,957 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>
+		SUDPS Community Crime Alerts - 2011-2012
+	</title>
+	
+	<meta name="description" content="The Stanford University Department of Public Safety - Community Crime Alerts - 2011-2012">
+	<meta name="keywords" content="index, stanford, Stanford, police, employment, police jobs, recruiting, police recruiting, Stanford police, stanford websites, stanford web, stanford home page, university, college">
+
+	<link rel="stylesheet" type="text/css" href="scripts/global5.css" />
+	<link rel="stylesheet" type="text/css" href="scripts/styles5.css" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35141420-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<!-- begin include: /scripts/includes/header.inc -->
+ 
+	
+	<script type="text/javascript" src="scripts/main-nav-images.js"></script>
+	
+<!-- ULTIMATE DROP DOWN MENU Version 4.44 by Brothercake -->
+		<!-- https://www.udm4.com/ -->
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-custom-blue.js"></script>
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-control.js"></script>
+		<script type="text/javascript" src="https://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-style.js"></script>
+
+
+		<script type="text/javascript" language="JavaScript1.1">
+<!--
+
+//Pixelating Image slideshow
+//Copyright Dynamic Drive 2001
+//Visit https://www.dynamicdrive.com for this script
+
+//specify interval between slide (in mili seconds)
+var slidespeed=12000
+//specify images
+var slideimages=new Array("https://www.stanford.edu/group/SUDPS/images/quote-box/core-pre.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/we-pledge.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/core-post.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/SUDPS-enviro.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/no-typical-day.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/best-ucanb.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/extra-mile.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/on-foot.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/sense-trouble.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/vehicle-safety.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/driving.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/beware-drivers.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/ATMs.gif", "https://www.stanford.edu/group/SUDPS/images/quote-box/id-theft.gif")
+//specify corresponding links
+var slidelinks=new Array("https://www.stanford.edu/group/SUDPS/index.shtml")
+
+var imageholder=new Array()
+var ie55=window.createPopup
+for (i=0;i<slideimages.length;i++){
+imageholder[i]=new Image()
+imageholder[i].src=slideimages[i]
+}
+
+function gotoshow(){
+window.location=slidelinks[whichlink]
+}
+
+//-->
+</script>
+
+</head>
+<body>
+
+<div style="text-align: center; margin: 0 auto;"><a name="pagetop"></a><img src="https://www.stanford.edu/group/SUDPS/images/top-border.jpg" width="770" height="5" alt="" border="0" /></div>
+	<div id="wrapper">			
+		<div id="mainWrapper">
+			<div id="container">
+			
+<!-- end include: /scripts/includes/header.inc -->
+				
+				<div id="main_pageheader">
+					<div id="header-text">Community Crime Alerts</div>
+				</div>
+				
+				<div id="nav-spacer"></div>
+				<div id="main_nav-q">
+
+<!-- BEGIN INCLUDE: /scripts/includes/nav-imagemap.inc -->	
+				
+<img src="http://www.stanford.edu/group/SUDPS/images/y-menu4.jpg" width="760" height="46" usemap="#tabsMap" border="0" align="bottom" name="imagemap">
+
+<map name="tabsMap">	 
+   <area shape="rect" coords="0,5,63,48" href="http://www.stanford.edu/group/SUDPS/index.shtml" onMouseover="dropdownmenu(this, event, menu0, '149px');rollOver('imagemap','home')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="65,5,163,48" href="http://www.stanford.edu/group/SUDPS/safety-report.shtml" onMouseover="dropdownmenu(this, event, menu1, '149px');rollOver('imagemap','safety')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="165,5,246,48" href="http://www.stanford.edu/group/SUDPS/crime-alert.shtml" onMouseover="dropdownmenu(this, event, menu2, '149px');rollOver('imagemap','crime-alerts')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="248,5,329,48" href="http://www.stanford.edu/group/SUDPS/employment.shtml" onMouseover="dropdownmenu(this, event, menu3, '149px');rollOver('imagemap','employ')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="331,5,406,48" href="http://www.stanford.edu/group/SUDPS/outreach.shtml" onMouseover="dropdownmenu(this, event, menu4, '149px');rollOver('imagemap','outreach')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="408,5,468,48" href="http://www.stanford.edu/group/SUDPS/event-security.shtml" onMouseover="dropdownmenu(this, event, menu5, '149px');rollOver('imagemap','event')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="469,5,529,48" href="http://www.stanford.edu/group/SUDPS/livescan.shtml" onMouseover="dropdownmenu(this, event, menu6, '149px');rollOver('imagemap','livescan')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="532,5,610,48" href="http://www.stanford.edu/group/SUDPS/forms.shtml" onMouseover="dropdownmenu(this, event, menu7, '149px');rollOver('imagemap','forms')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="613,5,667,48" href="http://www.stanford.edu/group/SUDPS/links.shtml" onMouseover="dropdownmenu(this, event, menu8, '149px');rollOver('imagemap','links')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+   <area shape="rect" coords="670,5,742,48" href="http://www.stanford.edu/group/SUDPS/contact.shtml" onMouseover="dropdownmenu(this, event, menu9, '149px');rollOver('imagemap','contact')" onMouseout="delayhidemenu();rollOver('imagemap','default')">
+</map>
+
+<!-- END INCLUDE: /scripts/includes/nav-imagemap.inc -->	
+
+					</div>
+				<div id="nav-spacer"></div>
+				
+				<div id="content-area">
+					<div id="left-col">
+						<div id="left-nav"><!-- begin include: /scripts/includes/crime-alert-nav.inc -->
+
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-dom.js"></script>
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-mod-keyboard.js"></script>
+<script type="text/javascript" src="http://www.stanford.edu/group/SUDPS/scripts/udm-resources/udm-x-sliding.js"></script>
+
+<ul id="udm" class="udm">
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1516.shtml" title="2015-2016">2015-2016</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#summer16" title="Summer 2016">Summer 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#spring16" title="Spring 2016">Spring 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#winter16" title="Winter 2016">Winter 2016</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#fall15" title="Fall 2015">Fall 2015</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml" title="2014-2015">2014-2015</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#summer15" title="Summer 2015">Summer 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#spring15" title="Spring 2015">Spring 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#winter15" title="Winter 2015">Winter 2015</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1415.shtml#fall14" title="Fall 2014">Fall 2014</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml" title="2013-2014">2013-2014</a>
+  	<ul>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#summer14" title="Summer 2014">Summer 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#spring14" title="Spring 2014">Spring 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#winter14" title="Winter 2014">Winter 2014</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1314.shtml#fall13" title="Fall 2013">Fall 2013</a></li>
+ 		</ul>
+ 	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml" title="2012-2013">2012-2013</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#summer13" title="Summer 2013">Summer 2013</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#spring13" title="Spring 2013">Spring 2013</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#winter13" title="Winter 2013">Winter 2013</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1213.shtml#fall12" title="Fall 2012">Fall 2012</a></li>
+ 		</ul>
+
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml" title="2011-2012">2011-2012</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml" title="Summer 2012">Summer 2012</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#spring12" title="Spring 2012">Spring 2012</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#winter12" title="Winter 2012">Winter 2012</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml#fall11" title="Fall 2011">Fall 2011</a></li>
+ 		</ul>
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml" title="2010-2011">2010-2011</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml" title="Summer 2011">Summer 2011</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#spring11" title="Spring 2011">Spring 2011</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#winter11" title="Winter 2011">Winter 2011</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert1011.shtml#fall10" title="Fall 2010">Fall 2010</a></li>
+ 		</ul>
+ 	</li>
+<!--	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml" title="2009-2010">2009-2010</a>
+  	<ul>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#summer10" title="Summer 2010">Summer 2010</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#spring10" title="Spring 2010">Spring 2010</a></li>
+		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#winter10" title="Winter 2009">Winter 2010</a></li>
+  		<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert0910.shtml#fall09" title="Fall 2009">Fall 2009</a></li>
+ 		</ul>
+ 	</li>
+-->	
+  
+	<li><a href="http://www.stanford.edu/group/SUDPS/crime-alert.shtml#safety" title="Public Safety Reminders">Public Safety Reminders</a></li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/safety-report/toc.shtml" title="Crime & Safety Tips">Crime & Safety Tips</a>
+  	<ul>
+			<li><a href="safety-report/alcohol.shtml">Alcohol, Drug, and Driving Laws</a></li>
+			<li><a href="safety-report/bicycle.shtml">Bicycle Safety and Security **</a></li>
+			<li><a href="safety-report/bomb-threat.shtml">Bomb Threat Safety Instructions</a></li>
+			<li><a href="safety-report/dv.shtml">Domestic Violence</a></li>
+			<li><a href="safety-report/emergency.shtml">Emergency Preparedness</a></li>
+			<li><a href="safety-report/justice-system.shtml">How to Navigate the Criminal Justice System</a></li>
+			<li><a href="safety-report/mail-bomb.shtml">Letter and Package Bomb Indicators</a></li>
+			<li><a href="safety-report/pedestrian.shtml">Pedestrian Safety Zone</a></li>
+			<li><a href="safety-report/personal-safety.shtml">Personal Safety and Protection</a></li>			
+			<li><a href="safety-report/property.shtml">Property Protection **</a></li>
+			<li><a href="safety-report/reporting.shtml">Reporting Crime and Suspicious Activity</a></li>
+			<li><a href="safety-report/sexual-assault.shtml">Sexual Assault</a></li>
+			<li><a href="safety-report/phone-bomb.shtml">Telephone Bomb Threat Report Form</a></a></li>
+ 		</ul>
+	</li>
+	<li><a href="http://www.stanford.edu/group/SUDPS/reporting.shtml" title="Reporting Crime">Reporting Crime</a></li>
+</ul>
+
+<!-- end include: /scripts/includes/crime-alert-nav.inc -->
+						</div><!-- // left-nav -->
+
+						<div id="search-box">
+							<div id="nav-spacer"></div>
+								<!-- BEGIN INCLUDE: /scripts/includes/search.inc -->			
+
+<div id="search-btn">
+<form method="get" action="http://www.stanford.edu/search">
+<input type="text" name="q" size="10" maxlength="100" value="" />&nbsp;
+<input type="submit" name="sa" value="Search" />
+<input type="hidden" name="cx" value="003265255082301896483:sq5n7qoyfh8" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+
+<input type="hidden" name="as_dt" value="i" />
+<input type="hidden" name="as_sitesearch" value="stanford.edu/group/SUDPS" />
+
+</form></div>
+
+<!-- END INCLUDE: /scripts/includes/search.inc -->
+							<div id="nav-spacer"></div>
+						</div><!-- // search-box -->
+							
+						<!-- begin include: /scripts/includes/left-content.inc -->
+
+							<div id="left-content">
+								<p>
+									
+									<!-- Quote Box -->
+      	<a href="javascript:gotoshow()"><img src="photo1.jpg" alt="SUDPS quotes" name="slide" border=0 style="filter:progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,Duration=1)"></a>
+
+<script language="JavaScript1.1">
+<!--
+var whichlink=0
+var whichimage=0
+var pixeldelay=(ie55)? document.images.slide.filters[0].duration*1000 : 0
+function slideit(){
+if (!document.images) return
+if (ie55) document.images.slide.filters[0].apply()
+document.images.slide.src=imageholder[whichimage].src
+if (ie55) document.images.slide.filters[0].play()
+whichlink=whichimage
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+setTimeout("slideit()",slidespeed+pixeldelay)
+}
+slideit()
+
+//-->
+</script>
+									
+									
+		</p>
+		
+		<p><a href="http://studentaffairs.stanford.edu/sara" target="_blank"><img src="http://www.stanford.edu/group/SUDPS/images/SVABarches.jpg" border="0" /></a>
+			<a href="http://www.stanford.edu/group/SUDPS/employment.shtml"><img src="http://www.stanford.edu/group/SUDPS/images/now-hiring.jpg" border="0" /></a>
+			
+			
+	</p>
+						</div><!-- // left-content -->
+						
+<!-- end include: /scripts/includes/left-content.inc -->
+
+					</div><!-- // left-col -->
+					
+					<div id="main-col">
+						
+						
+						
+												<!-- right-col content -->
+				
+						
+		<!-- center-col -->						
+			
+							
+						<div id="center-col">
+
+<div id="bread-crumbs"><a href="index.shtml" class="bread-crumbs">Home</a> > <a href="crime-alert.shtml" class="bread-crumbs">Community Crime Alerts</a> > <font color="#393a38">2011-2012</font></div>
+
+<p align="center"><img src="images/crime-alert.jpg" /></p>
+
+<p><i><b>Community Crime Alerts</B> are reports of major criminal incidents on the campus that could potentially affect the larger Stanford community.  While such crimes are not indicative of life on campus, it is important to be aware of them when they do occur and to take the appropriate precautions.</i></p>
+
+<p><i>The following crime alerts were put out by the Stanford University Department of Public Safety during the academic year of 2011-2012.  Crime Alerts are listed according to the most recent incident.</i></p>
+
+<p><hr>
+
+<p align="center"><b> <a href="#fall11">Fall 2011</a> | <a href="#winter12">Winter 2012</a> | <a href="#spring12">Spring 2012</a> | <a href="#summer12">Summer 2012</a></b> </p>
+
+
+<p><hr>
+
+<!--  // Timely Warning Programming Instructions.
+
+// To insert a new timely warning, copy the information immediately below, paste it below the "right arrow" and edit it accordingly using the following format:  replace the xxx with the Title, the yyy with the Content, and the zzz with the Date you posted the alert.  Everything else should remain the same.  Afterwards, send me an email: tbolle@stanford.edu so that I can double-check.
+
+<h3><a name=""></a><u>xxxxxxxxxxxx</u></h3>
+
+<p>yyyyyyyyyyyyyyyyyyyyyyyyyyyyy</p>
+
+<p id="post-date">Posted zz/zz/zz</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ -->
+
+<h3><a name=""></a><u><i>Additional Information for</i> Sexual Battery, 9/19/12, 6:53 am</u></h3>
+
+<p><i><b>From Palo Alto PD</i></b> -- Early this morning, a female jogger was able to free herself from a man who approached her from behind and bear-hugged her, grabbing her breast in the process and possibly trying to pull her down.  Police believe the suspect is likely the same person who has committed two recent sexual batteries in Palo Alto.</p>
+
+<p>On Wednesday, September 19, 2012, at about 6:53 a.m., officers from the Palo Alto Police Department responded to the area of Palo Alto Avenue at Alma Street on a report of an assault that had just occurred.  The victim, a female in her 20s, was jogging southbound into Palo Alto from Menlo Park on the path through El Palo Alto Park at 102 Palo Alto Avenue.  An unknown male suspect approached her from behind, bear-hugged her, and grabbed one of her breasts.  The victim said she felt as though the suspect was trying to pull her down.  She screamed.  She was able to wriggle free from his grasp, and in the process, she fell to the ground.  The suspect immediately jogged away from her on the same path and headed southbound on the sidewalk of Alma Street.  The victim did not suffer any injuries.</p>
+
+<p>The victim followed the suspect from a distance and used her cell phone to call the police.  She yelled after the suspect and told him she was notifying police.  She last saw the suspect jogging eastbound on Hawthorne Avenue from Alma Street.</p>
+
+<p>Several officers and detectives from the Palo Alto Police Department responded to the area, as did a police canine unit from the Menlo Park Police Department.  Officers extensively checked the area with the police dog, but were unable to locate the suspect.</p>
+
+<p>The victim described the suspect as possibly Middle Eastern or Hispanic, about 40 years of age.  He was about 5 feet 9 inches tall with a medium build.  The victim said he was dressed as though he too was out for a jog, as he was wearing a light gray long-sleeve shirt and dark gray or black running pants.  He had thin black hair.  As the victim was never able to see the details of the suspect's face, there is no sketch available for distribution.</p>
+
+<p>This appears to be the third crime likely committed by the same suspect in Palo Alto in the past month.  On August 20, the suspect grabbed a womanâs buttocks in the 600 block of Fulton Street at about noon.  On August 29, the suspect grabbed a womanâs breast at the Stanford Shopping Center at about 12:13 p.m.  Sketches of the suspect from both of those cases have been previously released, and are available on our Facebook page at www.facebook.com/PaloAltoPolice.</p>  
+
+<p>Investigators do not believe that a sexual battery that occurred on the Stanford University campus on September 12 is related to this series of incidents in Palo Alto, as the suspect description is different.</p>
+
+<p>Detectives from the Palo Alto Police Department are actively investigating these incidents.  Any developments or any new suspect information will be released to the community in a timely manner.</p>
+
+<p>"We are concerned about all of these events, but we are particularly concerned about this one, as it appears as though the suspectâs behavior may be escalating," said Lieutenant Zach Perron.  âWeâre going to do everything we can to identify and apprehend him.  We ask for the publicâs help with reporting suspicious behavior immediately to 9-1-1.â</p>
+
+<p>While this has been the only case of a female jogger being targeted, we recommend that women jog in pairs or small groups whenever possible.  In every case, however, we strongly recommended that joggers not cover both ears with headphones, so as to be better aware of their surroundings and anyone who may be approaching them from behind.  We also recommend that joggers carry a cell phone with them, and stay in well-traveled areas whenever possible.</p>
+
+<p>There are a number of good personal safety and crime prevention tips posted on the City of Palo Alto website.  Visit <a href="http://www.cityofpaloalto.org/StopCrime">www.cityofpaloalto.org/StopCrime</a> for more information.</p>
+
+<p>We continue to recommend that you remain aware of your surroundings when out in public, and we encourage you to report suspicious behavior immediately via 9-1-1.  Anyone with information about this incident or the other recent sexual batteries is asked to call our 24-hour dispatch center at 650-329-2413.  Anonymous tips can be e-mailed to <a href="mailto:paloalto@tipnow.org?Subject=Alma%20Sexual%20Battery%20">paloalto@tipnow.org</a> or sent via text message or voice mail to 650-383-8984.</p>
+
+<p id="post-date">Posted 9/19/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Sexual Battery, 9/19/12, 6:53 am</u></h3>
+
+<p>A female reported that on Wednesday morning (9/19/12) at approximately 6:53 am, while running on south Alma and Palo Alto Ave (in Palo Alto), an unknown male suspect grabbed her breasts and then tried to pull her into the bushes.</p>
+
+<p>The suspect is described as a hispanic or East Indian male with thinning black hair, 5'7", medium build, wearing a gray long sleeved shirt and dark gray or black pants.  He was last seen running east on Hawthorne.</p>
+
+<p>The Stanford police encourage individuals to report suspicious and criminal activity to the police as soon as possible. Advise the police with as many as details as possible.</p>
+
+<p>Anyone with information should contact the Stanford Police at 650-329-2413.</p>
+
+<p>Additional information, will be posted on the Stanford Department of Public Safety's website (<a href="http://police.stanford.edu">http://police.stanford.edu</a>) as it becomes available.</p>
+
+<p>There have been similar reported incidents in the City of Palo Alto in recent weeks.  See <a href="http://www.cityofpaloalto.org/civica/press/display.asp?layout=1&Entry=782">City of Palo Alto Police Press Release</a>.</p>
+<p id="post-date">Posted 9/19/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+<h3><a name="summer12"></a><u>(9/14/12) No Emergency at Stanford;
+	 Officials are monitoring events at North Dakota State and University of Texas</u></h3>
+
+<p>Stanford is aware that the campuses of the University of Texas at Austin and North Dakota State University 
+	have been <a href="http://content.usatoday.com/communities/ondeadline/post/2012/09/14/university-of-texas-emergency-threat-evacatuion/70000347/1#.UFNb4BgYT4g">evacuated
+		 due to bomb threats</a>. <span>Â </span></p>
+<p>Stanford has not received any threats, but university officials continue to monitor the situation.
+	 <span>Â </span></p>
+<p>We encourage members of the community to be constantly aware of their surroundings and to report 
+	suspicious activity immediately to 911.</p>
+<p>Making a false report of planting a bomb or explosive is a criminal act that could result in a 
+	penalty of up to one year in jail. </p>
+<p>If someone does receive a bomb threat, please follow the procedures below, or download the 
+	<a href="http://www.stanford.edu/dept/EHS/prod/general/erprep/EmerGuide/Final_Candidate_USE/Emergency_Guide_2010_May_V04_19_PhoneThreat.pdf" title="Phone Threat Guide ">PDF 
+		of this flyer</a>.Â </p>
+<p><img src="images/Emergency_Guide_2010_May_V04_19_PhoneThreat_Page_1.jpg"/></p></p>
+
+<p id="post-date">Posted 09/14/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>9/12/12 Sexual Battery by Manzanita Field</u></h3>
+
+<p>A female student reported at 4:55 pm that on Wednesday afternoon (9/12/12) at approximately 1:20 pm, she was groped from behind by an unknown male while walking along the sidewalk by Manzanita Field, near the intersection of Campus Drive and Serra Street.</p>
+
+<p>The suspect is described as a hispanic male in his 20s/30s, 5'5", 180-190 lbs. He has long black hair, and was last seen wearing a thick gold chain, fitted white tank top, and dark pants.</p>
+
+<p>The Stanford police encourage individuals to report suspicious and criminal 
+
+activity to the police as soon as possible.  Advise the police with as many as 
+
+details as possible.</p>
+
+<p>Anyone with information should contact the Stanford Police at 650-329-2413.</p>
+
+<p>Additional information, will be posted on the Stanford Department of Public 
+
+Safety's website (<a href="http://police.stanford.edu">http://police.stanford.edu</a>) as it becomes available.</p>
+
+<p>There have been similar reported incidents in the City of Palo Alto in recent weeks.  See <a href="http://www.cityofpaloalto.org/civica/press/display.asp?layout=1&Entry=782">City of Palo Alto Police Press Release</a>.</p>
+<p id="post-date">Posted 09/12/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>9/7/12 Auto Burglars Strike Palo Alto Parking Lots and Parking Garages</u></h3>
+
+<p><b>Palo Alto, CA</b> -- Officers from the Palo Alto Police Department have taken 17 auto burglary reports in the past two days. In all 17 vehicles, the windows were smashed and the suspects stole computer bags, laptops, electronic equipment and personal documents.</p>
+
+<p>On Wednesday, September 5, 2012, there were a total of 11 reported auto burglaries. The suspects targeted vehicles clustered in the same location within a downtown parking lot or the Stanford Shopping Center parking lot.</p>
+
+<p>At the Stanford Shopping Center, the suspects burglarized six vehicles within a ten minute time frame, from 8:00 â 8:10 p.m. All six vehicles were locked and parked in the same general area on the west side, along El Camino Real. In all of these cases, the suspect smashed a window, reached inside, and pulled the trunk release lever. The suspect then stole laptop bags containing computers and other personal items that were in the trunk.</p>
+
+<p>At approximately 8:42 p.m., our 24-hour dispatch center received a report of an auto burglary in City Parking Garage âRâ at 528 High Street. Officers from the Palo Alto Police Department responded and discovered a total of four vehicles had been burglarized. The suspect smashed a window out in each vehicle and reached inside to retrieve laptop bags and brief cases containing computers, electronic items, and other personal documents. Items were taken from the interior compartment in three of the four burglaries. The suspect pulled the trunk release lever on the fourth vehicle and stole items from there.</p> 
+
+<p>At 9:17 p.m., one final victim reported an auto burglary in City Parking Lot âHâ at 571 Cowper Street. Again, the suspect smashed a window and reached inside the main cabin to retrieve two laptop bags containing computers and personal items.</p> 
+
+<p>On Thursday, September 6, 2012, there were a total of six reported auto burglaries reported from three separate downtown parking garages.</p>
+
+<p>Between the hours of 6:30 p.m. and 8:45 p.m. two auto burglaries occurred in City Parking Garage âRâ at 528 High Street. The suspect smashed a window in both cases. In one case, the suspect stole a backpack containing personal items that was in plain view. The suspect pulled the trunk release in the second vehicle and stole a laptop from the trunk.</p>
+
+<p>Between the hours of 7:00 and 9:30 p.m., two auto burglaries occurred in City Parking Garage âSâ at 445 Bryant Street. The suspect smashed a window in each of the two vehicles and removed laptop bags that were in plain view.</p>
+
+<p>The last two reported auto burglaries occurred between 7:30 and 9:45 p.m. in City Parking Garage âJâ at 520 Webster Street. Again, the suspect smashed a window out in each vehicle and removed a laptop bag and backpack that were in plain view.</p>
+
+<p>Although a handful of the victim vehicles were rental cars, it does not appear that the suspect targeted any particular make or model. It appears as though the suspects could be targeting rental vehicles, perhaps with the thinking that business travelers often travel with personal electronic devices.</p>
+
+<p>We recommend that you take your valuables with you whenever possible, or at the very least, secure them out of sight prior to arriving at your destination. Leaving valuables in plain view is a sure way to attract the attention of a burglar. Also, be sure to always lock your vehicle and close the windows when it is unattended. While that advice would not have helped the victims in these cases, having a locked vehicle will absolutely have a deterrent effect on some criminals. For more crime prevention tips, please visit our website at <a href="http://www.cityofpaloalto.org/StopCrime">www.cityofpaloalto.org/StopCrime</a>.</p>
+
+<p>Officers and detectives from the Palo Alto Police Department are actively working this crime trend. Uniformed officers are increasing their patrols, and plainclothes detectives are also out looking for the suspects.</p>
+
+<p>In a few of the cases, witnesses observed possible suspects. However, the possible suspect descriptions are so varied that the Palo Alto Police Department is not releasing any information about them at this time, and instead would like to ask people to focus on observing suspicious behavior, as opposed to looking for a particular description of person. Detectives believe that the 17 cases are likely related, and were committed by the same suspect or group of suspects.</p>
+
+<p>We encourage people to call 9-1-1 to report suspicious behavior, and allow the police to investigate if that behavior is innocent or criminal. It is always better to call and let the police do their job, rather than rationalize suspicious behavior and not call. For example, people loitering in parking lots and peering into cars or trying door handles is absolutely suspicious behavior, and merits a 9-1-1 call right away. Anyone with information about these auto burglaries is asked to call our 24-hour dispatch center at 650-329-2413. Anonymous tips can be e-mailed to paloalto@tipnow.org or sent via text message or voice mail to 650-383-8984.</p>
+
+<p id="post-date">Posted 09/07/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>8/29/12 Sexual Battery Occurs at Stanford Shopping Center</u></h3>
+
+<p><p><b>Palo Alto, CA</b> -- A man approached a woman in the parking lot of Stanford Shopping
+Center this afternoon, grabbed one of her breasts over her clothes, and fled on foot.</p>
+
+<p>On Wednesday, August 29, 2012, at about 12:13 p.m., officers from the Palo Alto Police
+Department responded to the Stanford Shopping Center at 180 El Camino Real on a report
+of a sexual battery that had just occurred. The victim, a female in her 30s, was walking
+eastbound on the sidewalk of Orchard Lane between Nordstrom and Neiman Marcus. An
+unknown male suspect stepped out in front of her from between two parked cars and used
+his hand to grab one of the victimâs breasts over her clothing. The suspect then ran away
+and was last seen in a parking lot along Welch Road. The victim immediately called 9-1-1
+from her cell phone. Officers and detectives from the Palo Alto Police Department,
+assisted by deputies from the Stanford Department of Public Safety, conducted an
+extensive search but could not find the suspect. The victim was not injured.</p>
+
+<p align="center"><img src="images/SexualBattery_Sus_082912.jpg" /></p>
+
+<p>The victim described the suspect as an East Indian male, about 30 years of age. He was
+wearing a yellow hooded sweatshirt with the hood up over his head. The victim said he
+was about 5 feet 9 inches tall with a medium build. A sketch of the suspect is attached to
+this press release.</p>
+
+<p>There was a similar sexual battery reported to us last week. The press release and sketch
+from that case are attached here for reference. Detectives are actively investigating these
+cases, and believe it is likely the same suspect may be responsible for both crimes. Patrol
+officers and plainclothes detectives will be on the lookout for the suspect in the meantime.</p>
+
+<p>There are a number of good personal safety and crime prevention tips posted on the City of
+Palo Alto website. Visit <a href="http://www.cityofpaloalto.org/StopCrime">www.cityofpaloalto.org/StopCrime</a> for more information.</p>
+
+<p>We also encourage you to follow us on the social media platform of your choice. We post
+crime prevention tips, as well as press releases, traffic advisories, crime statistics, and
+human interest stories, on Twitter (@PaloAltoPolice), Facebook (<a href="http://www.facebook.com/PaloAltoPolice">www.facebook.com/PaloAltoPolice</a>), Nixle (<a href="http://www.nixle.com">www.nixle.com</a>), and <a href="http://www.rblock.com">www.rblock.com</a>.</p>
+
+<p>We continue to recommend that you remain aware of your surroundings when out in public,
+and we encourage you to report suspicious behavior immediately via 9-1-1. Anyone with
+information about this incident is asked to call our 24-hour dispatch center at 650-329-
+2413. Anonymous tips can be e-mailed to <a href="mailto:paloalto@tipnow.org?Subject=Stanford%20Mall%20Sexual%20Battery%20">paloalto@tipnow.org</a> or sent via text message or voice mail to 650-383-8984.</p>
+
+<p id="post-date">Posted 8/30/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>8/18/12 Update to 8/17/12 Public Safety Advisory</u></h3>
+
+<p>Missing high-risk sex offender Derrick Sanders was taken into custody in San Francisco on Saturday morning (8/18/12).</p>
+
+<p id="post-date">Posted 8/18/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Public Safety Advisory: High Risk Sex Offender Escaped Redwood City Mental Health Facility, 8/17/12</u></h3>
+
+<p>Derrick Sanders, 34 years old, is a resident of Cordilleras Mental Health Facility in Redwood City.   He is a parolee with a history of violence, weapons and sex offenses and is considered a âHigh Riskâ offender with mental health issues.  Sanders was discovered missing by staff at Cordilleras Center during rounds which were conducted during the early morning hours today. Sanders is a transient who frequents the San Mateo County and Alameda County areas.</p>
+
+<p>Sanders is described as 5â11, 165# and was last seen wearing a red polo shirt and blue jeans.  Sanders is also wanted on a parole violation warrant issued by the California Department of Corrections.  Bay Area law enforcement agencies have been notified to be on the lookout for Sanders.</p>
+
+<p align="center"><img src="images/DerrickSanders.jpg" /></p>
+
+<p>If you see or know the whereabouts of Sanders please do not approach and contact Sanders.  Call 911 and notify Law Enforcement immediately.  If you have any leads as to Sanders current location please call Detective Gathright at 650-363-7823 or the Anonymus Witness Line at 1-800-547-2700.</p>
+
+<p id="post-date">Posted 08/17/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Update to Physical Assault, 8/13/12</u></h3>
+
+<p>Suspect has been detained by police as of 1:48 am (on 8/13/12).</p>
+
+<p id="post-date">Posted 08/13/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Physical Assault, 8/13/12</u></h3>
+
+<p>A female student reported that on Monday morning, 8/13/12 at approximately 12:20 am, she was physically assaulted by a male acquaintance at Branner Hall (655 Escondido Road).  The suspect fled the scene and is still at large.</p>
+
+<p>Suspect is described as a white male adult in his 30s, 6'3", 220 lbs.  He has brown hair and blue eyes, and was last seen wearing a dark t-shirt and jeans.  He drives a white or silver mini van.</p>
+
+<p>The Stanford police encourage individuals to keep their doors and windows locked. Additionally, report suspicious and criminal activity to the police as soon as possible. When advising the police of suspicious and criminal behavior, try to provide as many details as possible.</p>
+
+<p>Anyone with information should contact the Stanford Police at 650-329-2413.</p> 
+
+<p>Additional information will be posted on the Stanford Department of Public Safety's website (<a href="http://police.stanford.edu">http://police.stanford.edu</a>) as it becomes available.
+</p>
+
+<p id="post-date">Posted 08/13/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+<h3><a name=""></a><u>Update to Fire, 8/8/12</u></h3>
+
+<p>(6:24 pm) The fire has been contained. Stanford field sites are now reopen for normal hours.</p>
+
+<p id="post-date">Posted 08/08/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+ 
+<h3><a name=""></a><u>Fire, 8/8/12</u></h3>
+
+<p>From Stanford Police:</p>
+
+<p>(5:50 pm) Stanford field sites are temporarily closed due to a fire near the intersection of Alpine Road and Arastradero Road. Avoid the area.</p>
+
+<p>Updates will be posted as they become available at <a href="http://police.stanford.edu">http://police.stanford.edu</a>.</p>
+
+<p id="post-date">Posted 08/08/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+ 
+ 
+<h3><a name=""></a><u>Escaped Prisoner Caught, 8/2/12</u></h3>
+
+<p>Escaped prisoner Scott Foster was apprehended near campus at 5:45 am and taken into custody without incident.</p>
+
+<p id="post-date">Posted 8/2/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Update to Prisoner Escape from 8/2/12</u></h3>
+
+<p>The following is a photo of the suspect Scott Foster who escaped from Stanford Police custody on Tuesday, August 2, 2012 at 2:05 am.</p>
+
+<p>Anyone with information regarding Foster's whereabouts should immediately call 911 (or 9-911 from a campus phone).</p>
+
+<p align="center"><img src="images/ScottFoster.jpeg" /></p>
+
+<p id="post-date">Posted 8/2/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Prisoner Escape, 8/2/12</u></h3>
+
+<p>From Stanford Police:</p>
+
+<p>On Thursday, August 2, 2012, at approximately 2:05 am, Scott Foster escaped custody from the Stanford Police Department at 711 Serra Street.Â  Foster had been arrested for domestic violence at 1:30 am.</p>
+
+<p>Foster is a white male adult in his late 30s, 5'8" tall and 200 pounds, and has a shaved head.Â  He was last seen wearing a light colored t-shirt and jeans, and has open sores on his arms.Â  He was handcuffed and not armed at the time.</p>
+
+<p>Individuals are encouraged to lock all doors and windows and report suspicious activity to the police as soon as possible.  Anyone with information on Foster's whereabouts should contact the Stanford Police immediately by dialing 9-1-1 (or 9-911 from a campus phone).</p>
+
+<p>Additional information will be posted on at <a href="http://police.stanford.edu">http://police.stanford.edu</a> as it becomes available.</p>
+
+<p>This message is being posted in compliance with the Jeanne Clery Act.</p>
+
+<p id="post-date">Posted 08/02/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name="summer12"></a><u>Attempted Burglary, 7/31/12</u></h3>
+
+<p>From Stanford Police: 
+
+
+On Tuesday, July 31, 2012, at approximately 9:25 am, an unknown male suspect attempted to enter an unlocked 
+second story window at the Lantana House at 750 Campus Drive. The reporting party, who was inside the room, 
+saw the suspect as he opened the window to her room.  When the suspect saw the reporting party, he fled.  
+<br> <br>
+The reporting party described the suspect as follows:
+<br><br>White adult male adult; 20-25 years old, as tall as 6' tall with a thin build.  Dark hair and mustache.  
+The suspect was last seen wearing a gray long sleeve shirt. 
+<br> <br>
+The Stanford police encourage individuals to keep their doors and windows locked. Additionally, we ask 
+the community to report suspicious and criminal activity to the police as soon as possible.  
+<br> <br>
+Anyone with additional information should contact the Stanford Police at 650-329-2413. 
+Additional information will be posted on this website (http://police.stanford.edu) 
+as it becomes available.
+<br> <br>
+This message is being sent to you in compliance with the Jeanne Clery Act.
+
+</p>
+
+<p id="post-date">Posted 07/31/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+ 
+ 
+<h3><a name=""></a><u>Armed Robbery on Palo Alto Bike Path, 7/24/12</u></h3>
+
+<p><p><b>PALO ALTO, CA:</b>  On July 24 2012, at 10:30 p.m., a person was robbed at gun point on the bicycle path behind Town and Country Village. As the victim rode home from work, he was confronted by an armed suspect who demanded the contents of the victimâs pockets. In fear of his safety, the victim complied and handed over his belongings which consisted of a cellular phone and a small amount of cash. The suspect took the items and fled on foot northbound on the bike path. When he reached Encina Way, he exited the path and ran toward El Camino Real.</p>
+
+<p>The victim called police immediately after the robbery and an extensive search ensued. Unfortunately, the robber was not located in the area. The suspect is described as an African American adult male in his twenties. He was wearing a black hooded sweatshirt and blue jeans. He was of average height and displayed a black handgun during the incident. No injuries occurred during the robbery.</p>
+
+<p>Palo Alto Police are actively investigating this crime. A suspect sketch is forthcoming and will be sent out in a separate release.</p>  
+
+<p>Anyone with information about this incident is encouraged to call our 24-hour dispatch center at 650-329-2413. Anonymous tips can be e-mailed to <a href="mailto:paloalto@tipnow.org?Subject=Bike%20Path%20Robbery%20">paloalto@tipnow.org</a> or sent via text message or voice mail to 650-383-8984.</p>
+
+<p id="post-date">Posted 07/26/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+<h3><a name=""></a><u>Timely Warning: Attempted Burglary, 6/19/12</u></h3>
+
+<p>From Stanford Police: A female reported that on Tuesday morning, June 19, 2012, at approximately 1:00 am, an unknown male suspect entered a second story window at the Mars House student residence at 553 Mayfield Avenue. The reporting party was unable to describe the individual, however she did see a small, black or dark colored sedan with a spoiler on the rear leaving the scene.</p>
+
+<p>This incident was reported to the police on the afternoon of Tuesday, June 19, 2012. The Stanford police encourage individuals to keep their doors and windows locked. Additionally, report suspicious and criminal activity to the police as soon as possible. When advising the police of suspicious and criminal behavior, try to provide as many details as possible.</p>
+
+<p>Anyone with additional information should contact the Stanford Police at 650-329-2413. Additional information will be posted on the Stanford Department of Public Safety website <a href="http://police.stanford.edu">http://police.stanford.edu</a> as it becomes available.</p>
+
+<p>This message was sent via email to all faculty, staff, and students registered with the AlertSU notification system in compliance with the Jeanne Clery Act.</p>
+
+<p id="post-date">Posted 6/19/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Sexual Assault, 6/9/12</u></h3>
+
+<p>On 6/09/12 at approximately 0100 hours, a female student was sexually assaulted by a known male acquaintance in a student residence located at 685 Escondio Road. The male suspect was arrested on 6/11/12 at approximately 1800 hours and booked into Santa Clara County main jail.
+
+<br><br>The Stanford police encourage individuals to report suspicious and criminal activity to the police as soon as possible.</p>
+
+<p id="post-date">Posted 06/12/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Outdoor Warning System, 6/6/12, 10:45am</u></h3>
+
+<p>On June 6th at 10:45am, maintenance was being performed on the outdoor warning system and the system was inadvertently activated.  There is no emergency at this time.</p>
+
+<p id="post-date">Posted 6/6/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+ 
+ <h3><a name="spring12"></a><u>Community Advisory</u></h3>
+ 
+<p>This community advisory is to call your attention to two separate thefts of catalytic converters 
+	removed from vehicles parked on campus. The first theft occurred on May 17th on the 100 
+	block of Campus Drive and the second on May 26th  on Olmsted Road at Hoskins Court.  Both vehicles 
+	were SUVs which is the most common type of vehicle targeted as they sit higher off the ground 
+making it easier and quicker to remove the converter from underneath.  </p> 
+<p>Thefts of catalytic converters are an area-wide concern.  The price paid on the black market 
+	or by unsuspecting automobile repair or parts shops can be in the hundreds of dollars making 
+the catalytic converter an attractive target of thieves.  </p>
+<p>To help prevent the theft of your converter, especially if you own an SUV, the Stanford University 
+Department of Public Safety recommends you take the following precautions:    </p>
+<ul>
+<li>Whenever possible, park your vehicle in a well lit and visible location.  
+<li>When at home, park your vehicle in the garage.  If no garage is available, park it in the driveway and leave 
+	on any outside light(s) that will illuminate the vehicle (e.g. motion light).  
+<li>Be observant for suspicious activities in and around areas where vehicles are parked such as 
+	neighborhoods, parking lots, and parking structures.  One example might be an individual who is 
+	underneath a vehicle with another who appears to be acting as a lookout.
+<li>As with any crime or suspicious activity, the Department of Public Safety urges you to immediately 
+	call your local law enforcement agency by dialing 9-1-1.  If on campus, you can also call 9-911 from 
+	a campus phone. 
+</ul>
+If you have any questions or concerns about this advisory, please contact Bill Larson, Crime Prevention and 
+Community Safety, at:  <a href="mailto:william.larson@stanford.edu">william.larson@stanford.edu</a>
+</p>
+
+<p id="post-date">Posted 6/05/12</p>	
+
+<h3><a name=""></a><u>Update to Prowling from 3/11/12</u></h3>
+
+<p>The following is a police sketch of the suspect involved in the prowling that occurred on Sunday, March 11, 2012 at 11:20 pm.</p>
+
+<p>Anyone with information regarding this crime is encouraged to contact the Stanford Department of Public Safety at (650)723-9633.</p>
+
+<p align="center"><img src="images/Prowler2012.jpg" /></p>
+
+<p id="post-date">Posted 3/22/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Prowling</u></h3>
+
+<p>A prowling incident occurred at 11:20 pm on Sunday, March 11, 2012, on Comstock Circle in Escondido Village. The witness described the suspect as an adult male in his 40s, hispanic ethnicity, 5â-5â2â tall, thin stature, black hair, and balding. The suspect was last seen wearing a black jacket and black sweatpants.</p>
+
+<p>The Stanford Police strongly encourage people to lock their doors and windows. Please immediately report similar incidents and other suspicious activity to the police.</p>
+
+<p>Anyone with information relating to this crime is urged to call the Stanford Police at 650-329-2413.</p>
+
+<p>Additional information, if obtained, will be posted on the Stanford Department of Public Safety website <a href="http://police.stanford.edu">(http://police.stanford.edu)</a>.</p>
+
+<p id="post-date">Posted 03/11/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Burglary</u></h3>
+
+<p>A male student reported that on Thursday morning, March 1, 2012 sometime between 5:45 am and 12:30 pm while he was sleeping, an unknown suspect entered his room at Phi Kappa Psi (592 Mayfield Ave) and stole two laptops.  The victim did not see or hear the suspect(s).</p>
+
+<p>The incident was reported to the police on the evening of Friday, March 2, 2012.  The Stanford police encourage individuals to keep their doors and windows locked, and to report suspicious and criminal activity to the police as soon as possible.  When advising the police of suspicious and criminal behavior, try to provide as many details as possible.</p>
+
+<p>Anyone with information about this incident should contact the Stanford Police at 650-329-2413.</p>
+
+<p>Additional information will be posted on the Stanford Department of Public Safety website <a href="http://police.stanford.edu">(http://police.stanford.edu)</a> as it becomes available.</p>
+
+<p id="post-date">Posted 03/02/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Suspicious Circumstance</u></h3>
+
+<p>A female student reported that on Friday morning, March 2, 2012 sometime between 12:30am and dawn, an unknown subject was seen outside the window of her residence on Cowell Lane.  When she awoke at approximately 7:30am, she noticed that her bedroom window was open and the screen was pushed in.  The student was not able to describe the individual.</p>
+
+<p>This incident was reported to the police on the afternoon of Friday, March 2, 2012. The Stanford police encourage individuals to keep their doors and windows locked.  Additionally, report suspicious and criminal activity to the police as soon as possible.  When advising the police of suspicious and criminal behavior, try to provide as many details as possible.</p>
+
+<p>Anyone with information should contact the Stanford Police at 650-329-2413.</p>
+
+<p>Additional information will be posted on the Stanford Department of Public Safety website <a href="http://police.stanford.edu">(http://police.stanford.edu)</a> as it becomes available.
+</p>
+
+<p id="post-date">Posted 03/02/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name="winter12"></a><u>Update to Sexual Battery from 2/5/12</u></h3>
+
+<p>The following is a police sketch of the suspect involved in the sexual battery that occurred on Sunday, February 5, 2012 at 0200hrs.
+<br><br>Anyone with information regarding this crime is encouraged to contact the Stanford Department
+of Public Safety at (650)723-9633</p>
+<br>
+<p align="center"><img src="images/Sexualbatterysketch2012.jpg" /></p>
+
+<p id="post-date">Posted 02/08/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Sexual Battery</u></h3>
+<p>A female student reported that on Sunday morning, February 5, 2012 at approximately 0200 hrs, a male entered her unlocked room at 1018 Campus Dr, climbed into her bed while she was sleeping, and attempted to remove her clothing. She awoke and was able to get out of bed and leave the room. <br><br>
+
+The victim did not know the individual. The victim and a witness described him as follows:<br><br>
+
+Male, Hispanic ethnicity, in his 20s, approximately 5'11", average build. He was wearing a red flannel shirt (buttoned up), blue jeans, and a grey baseball cap. The male smelled of cigarette smoke. <br><br>
+
+This incident was reported to the police on the afternoon of February 5, 2012. <br><br>
+
+The Stanford police encourage individuals to keep their doors and windows locked. Additionally, report suspicious and criminal activity to the police as soon as possible. When advising the police of suspicious and criminal behavior, try to provide as many details as possible.<br><br>
+
+Anyone with information about this incident should contact the Stanford Police at 650-329-2413.<br><br>
+
+Additional information will be posted on the Stanford Department of Public Safety website (http://police.stanford.edu) as it becomes available.</p>
+
+<p id="post-date">Posted 02/05/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Assault</u></h3>
+
+<p>On Sunday morning, February 5, 2012, a female victim reported to the Stanford Police that at approximately 1:45AM, she had been assaulted while walking back to her residence. The incident occurred in the Kennedy Grove, between the Faculty Club and the Humanities Center on the Stanford Campus. The suspect came from behind and tackled the victim, causing her to fall. Another male subject in the area witnessed the incident, yelled at the suspect who then fled the scene and is still at large. <br><br>
+
+The victim described the suspect as a white male in his 20s, approximately 6', 180 lbs, wearing a dark shirt and a baseball hat. The suspect had a strong odor of alcohol. <br><br>
+
+Anyone with information should contact the Stanford Police at 650-329-2413. Individuals are encouraged to walk in pairs, use suggested travel routes, know the location of the emergency bluetower phones and carry a cell phone. <br><br>
+
+Additional information will be posted on the Stanford Department of Public Safety website (police.stanford.edu) as it becomes available. 
+
+</p>
+
+<p id="post-date">Posted 02/05/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Death Investigation</u></h3>
+
+<p>On January 26, 2012, at approximately 11:45am, Palo Alto Police and Palo Alto Fire Department responded to a report of a possible dead body in the groves by Palo Road adjacent to Hoover Pavilion. Emergency personnel confirmed the individual was deceased. Investigators do not believe there is any threat to the community. Any further information will be released by the Palo Alto Police Department through their website at: www.cityofpaloalto.org/depts/pol.
+
+</p>
+
+<p id="post-date">Posted 01/26/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Crime Alert - Peeping Incident - January 23, 2012</u></h3>
+
+<p>On Monday evening, January 23, 2012, a female victim reported to the Stanford Police that at approximately 8:00PM, while she was showering, she observed a subject put his hand under the bottom of the shower door in her residence and attempt to take a photograph of her. The incident occurred on the first floor of Crothers Hall in a gender neutral shower room.  When the victim said something to the subject, he left the shower room.  From the subject's hand, the victim thinks the subject is Caucasian and possibly a male.</p> 
+
+<p>Residents of Crothers Hall reported that three other similar incidents occurred in the same shower room since January 8, 2012.  The other three incidents occurred on January 8, 2012 at 12:00PM, January 10, 2012 at 12:55AM and January 22, 2012 at approximately 2:30PM.  These three incidents were not reported to the Stanford Police until January 23, 2012.</p> 
+
+<p>The Stanford Police strongly encourage people to lock their doors and windows.  Please immediately report similar incidents and other suspicious activity to the police.  Anyone with information relating to this crime is urged to call the Stanford Police at 650-723-9633 or 650-329-2413.</p>
+
+<p>Additional information, if obtained, will be posted on the <a href="http://www.stanford.edu/group/SUDPS/crime-alert1112.shtml">Community Crime Alerts</a> page.</p>
+
+<p id="post-date">Posted 01/24/12</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name="fall11"></a><u>Update to Robbery</u></h3>
+
+<p><p>The Stanford police are continuing to investigate the robbery at Quillen Courtyard that was reported during the evening on Tuesday, November 29, 2011.
+<br>
+<br>
+  
+Anyone with information about this incident is encouraged to call our tipline at 650/725-2139.
+<br>
+<br>
+The following is a sketch of the male suspect based on the victim's description.<br>
+<br>
+<p align="center"><img src="images/RobberySuspectNov2011.jpg" /></p>
+
+<p id="post-date">Posted 11/30/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Robbery</u></h3>
+<p>
+On Tuesday, 11/29/11 at approximately 8pm, a robbery took place in an apartment on the Quillen Courtyard in Escondido Village on the Stanford campus.  The victim reported that a male and a female of Hispanic ethnicity forced their way into his apartment. The victim was physically unharmed. The suspects stole property from the apartment before leaving. Each suspect displayed a firearm.<br>
+<br>
+The victim described the suspects as: <br>
+<br>
+Male, Hispanic ethnicity, 20-30 years of age, medium build, last seen wearing a dark grey hooded sweatshirt.<br>
+<br>
+Female, Hispanic ethnicity, 20-30 years of age, last seen wearing dark clothing.<br>
+<br>
+
+Anyone with information is encouraged to contact the Stanford Department of Public Safety (650)329-2413.<br>
+<br>
+Additional information will be posted on the Stanford Department of Public Safety website (police.stanford.edu) as it becomes available.
+
+<p id="post-date">Posted 11/29/11</p>	
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Peeping Incident</u></h3>
+<p>On Friday afternoon, November 25, 2011, a male victim reported to the Stanford police that earlier in the day he had observed a male subject possibly video taping him in the shower of his residence at the ZAP House, one of the Cowell Cluster houses near Campus Drive and Bowdoin Lane.
+<br>
+<br>
+The victim indicated that the incident occurred between 1:30 and 2pm in the afternoon.  When confronted by the victim, the subject ran out of the restroom.  The subject was described by the victim as possibly being a hispanic male; there was no further description.
+<br>
+<br>
+The Stanford Police strongly encourages people to lock their doors and windows. Notify the police immediately if you see suspicious activity. Any one with information relating to this crime is urged to call the Stanford Police at 650-329-2413.</p>
+<p id="post-date">Posted 11/25/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+<h3><a name=""></a><u>Update to Robbery</u></h3>
+
+<p>The SUSPECT description in the robbery that occurred on Palm Dr near El Camino Real on Oct 1, 2011 at approximately 1200 hrs has been modified. The revised SUSPECT description, as provided by the VICTIM, is as follows:<br>
+<br>Bi-racial male (possibly Hispanic-African American with lighter skin); between 40-49 years of age; 6'02" tall; 220 lbs with a strong build. The hair on his head was short, straight, dark (black or brown) with some grey highlights. He was unshaven (stubble on chin). Additionally, the VICTIM described the SUSPECT as "hairy" (noticeable body hair on his arms, legs and knuckles).<br>
+<br>Unique characteristics: SUSPECT was not wearing glasses; stud earring (possibly with a clear stone) in his right ear; mark or scar across right cheek; noticeable body odor; and dirt under his fingernails.<br>
+<br>The SUSPECT was last seen wearing: a black, fitted t-shirt; red basketball type shorts with a black stripe down the side; black athletic shoes; and a blue baseball cap with writing on it (the writing was possibly white in color); and ear-bud style head phones.<br><br>
+This case is under investigation. Anyone with information is asked to contact the Stanford Department of Public Safety at (650) 329-2413.
+</p>
+<p>The following is a police sketch of the suspect from the victim's description. 
+<br></p>
+
+
+	<p align="center"><img src="images/RobberySuspectOct2011.jpg" /></p>
+
+<p id="post-date">Posted 10/01/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+<h3><a name=""></a><u>Robbery</u></h3>
+
+<p>On Saturday afternoon, October 1, a female victim reported to police that she had been robbed at 1200 hrs on Palm Dr near El Camino Real.  The suspect bumped her while she was jogging and forcibly stole her keys and cell phone.  <br>
+
+The victim described the suspect as a hispanic male, heavy build, in his 40s.  He was last seen wearing a black t-shirt and red basketball shorts and a blue baseball cap. Additionally, he has a tattoo of a cross on his right forearm.  The suspect was last seen running towards Palo Alto.<br>
+
+Anyone with additional information is encouraged to contact the Stanford Department of Public Safety (SUDPS) at (650) 329-2413.  Additional information regarding this incident will be posted on this website as it becomes available.
+</p>
+
+<p id="post-date">Posted 10/01/11</p>	
+		
+<center><a href="#pagetop"><b>- top -</b></a></center>
+<hr>
+
+
+
+
+<!-- begin include: /scripts/includes/footer.inc -->
+
+						</div><!-- // center-col -->
+					</div><!-- // main-col -->
+				</div><!-- // content-area -->
+			</div><!-- // container -->
+			
+						<center id="footer"><a href="http://www.stanford.edu" class="footer" target="_blank">Stanford University</a> | <a href="http://police.stanford.edu/police-map.shtml" class="footer" target="_blank">Map & Directions</a> | <a href="http://police.stanford.edu/contact.shtml" class="footer" target="_blank">Contact Us</a> | <a href="http://police.stanford.edu/sitemap.shtml" class="footer" target="_blank">Site Map</a> | <a href="http://www.stanford.edu/group/SUDPS/pdf-restricted/Internal.shtml" class="footer">SUDPS Personnel Only</a><br>&#169 <span class="fn org">Stanford University</span>. <span class="adr"><span class="locality">Stanford</span>, <span class="region">California</span> <span class="postal-code">94305</span>. <span class="tel">(650)
+        723-2300</span></span>.</center>
+			
+		</div><!-- // mainWrapper -->
+	</div><!-- // wrapper -->
+
+</body>
+</html>
+
+<!-- end include: /scripts/includes/footer.inc -->
